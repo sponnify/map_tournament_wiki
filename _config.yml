@@ -1,0 +1,48 @@
+# Site settings
+title: OSU Tournament Wiki
+description: Official wiki for the OSU Tournament
+baseurl: "/map_tournament_wiki" # the subpath of your site, e.g. /blog
+url: "https://sponnify.github.io" # Replace with your GitHub username
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs
+color_scheme: dark
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Tournament Homepage":
+    - "//map-tournament-homepage.com"
+  "GitHub Repository":
+    - "//github.com/sponnify/map_tournament_wiki"
+
+# Collections
+collections:
+  tournament-info:
+    output: true
+    permalink: /:collection/:path/
+
+# Default YAML values
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "tournament-info"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - node_modules/
+  - docker-compose.yml
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
