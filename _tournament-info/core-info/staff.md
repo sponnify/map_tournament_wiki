@@ -121,6 +121,7 @@ permalink: /tournament-info/core-info/staff/
 - Staff members cannot participate as players in the tournament, with the following exceptions:
   - Streamers
   - Commentators
+  - Referees
 
 ### How to Apply
 To apply for a staff position, please contact either of our tournament hosts:

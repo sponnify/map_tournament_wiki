@@ -29,6 +29,12 @@ All tournament matches take place between Friday 23:59 UTC and Monday 23:59 UTC 
 - The new time must fall within the Friday-Monday match window
 - Exceptions are considered on a case-by-case basis
 
+### What is the MAP Pool Rejects?
+
+The MAP Pool Rejects is a collection of tournament-suitable maps submitted for the tournament that were reviewed by the Pooling Team but ultimately not included in the final pools. These maps are recognized for their significant mapping quality but were excluded due to factors like redundancy or pool balance.  
+
+After the Grand Finals, a Google Sheet will be released showcasing these maps with notes explaining their exclusion and searchable parameters.
+
 ### How do I repair my osu! client?
 Follow these steps when encountering technical issues:
 1. Start osu! while holding down the `Shift` key

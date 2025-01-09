@@ -12,19 +12,19 @@ permalink: /tournament-info/core-info/overview/
 ---
 
 ## About the Tournament
-The **Mapping Appreciation Project (MAP)** is a **4v4 international tournament** that aims to showcase and promote exceptional maps that have been well-received by the mapping community. By featuring these maps, we hope to highlight **high-quality mapping** for future tournaments to consider.
+The **Mapping Appreciation Project (MAP)** is a **4v4 international tournament** that aims to showcase and promote maps that have been well-received by the mapping community. By featuring these maps, we hope to highlight **high-quality mapping** for future tournaments to consider.
 
 ---
 
 ## Tournament Format
 
-| Feature              | Details                                                                 |
-|----------------------|-------------------------------------------------------------------------|
-| **Team Size**        | 4 players per team (with additional substitutes allowed)               |
-| **Match Format**     | Double elimination bracket                                             |
-| **Eligibility**      | Open to players of all ranks                                           |
-| **Schedule**         | All matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on designated weekends |
-| **Timezone**         | All scheduling and communication uses **UTC timezone**                |
+| **Feature**          | **Details**                                                                 |
+|-----------------------|----------------------------------------------------------------------------|
+| Team Size            | 4 players per team (with additional substitutes allowed)                   |
+| Match Format         | Double elimination bracket                                                |
+| Eligibility          | The rank range is between 75,000 and 999,999.                             |
+| Schedule             | All matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on designated weekends |
+| Timezone             | All scheduling and communication use **UTC timezone**                     |
 
 ---
 
