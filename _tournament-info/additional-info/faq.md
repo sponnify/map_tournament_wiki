@@ -4,6 +4,7 @@ title: FAQ
 parent: Additional Information
 grand_parent: Tournament Info
 nav_order: 1
+permalink: /tournament-info/additional-info/faq/
 ---
 
 # FAQ
