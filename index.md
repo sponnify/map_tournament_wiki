@@ -33,4 +33,4 @@ Visit the [Player's Guide]({{ site.baseurl }}/players/) to understand:
 
 ## Complete Tournament Documentation
 
-For comprehensive tournament information, including rules, schedules, and procedures, visit our [Tournament Information]({{ site.baseurl }}/tournament-info/) section. Here you'll find everything from registration requirements to prize details.
+For comprehensive tournament information, including rules, schedules, and procedures, visit our [Tournament Information]({{ site.baseurl }}/tournament-info.html) section. Here you'll find everything from registration requirements to prize details.
