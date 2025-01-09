@@ -4,30 +4,33 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to the Mapping Appreciation Project Tournament Handbook
+# Welcome to the MAP Tournament Handbook
 
-This wiki is your go-to resource for all things related to the tournament.
+Welcome to the official handbook for the Mapping Appreciation Project Tournament. While most tournaments provide this information in a traditional rules document, we've structured this wiki to be more intuitive and user-friendly, making it easier to find exactly what you need.
 
-## Quick Navigation
+## Quick Access by Role
 
-- [Tournament Information]({{ site.baseurl }}/tournament-info/)
-  - Match Information
-    - [Qualifiers]({{ site.baseurl }}/tournament-info/match-info/qualifiers/)
-    - [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
-    - [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/)
-    - [Grand Finals]({{ site.baseurl }}/tournament-info/match-info/grand-finals/)
-  - Tournament Details
-    - [Gimmicks]({{ site.baseurl }}/tournament-info/tournament-structure/gimmicks/)
-    - [Rules]({{ site.baseurl }}/tournament-info/core-info/rules/)
-    - [Prizes]({{ site.baseurl }}/tournament-info/tournament-structure/prizes/)
-    - [Staff]({{ site.baseurl }}/tournament-info/core-info/staff/)
-    - [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/)
-  - Entry Information
-    - [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/)
-    - [Screening]({{ site.baseurl }}/tournament-info/entry-info/screening/)
-- [Information for Referees]({{ site.baseurl }}/referees/)
-- [Information for Captains]({{ site.baseurl }}/captains/)
-- [Information for Players]({{ site.baseurl }}/players/)
+### Are you a Referee?
+Head over to the [Referee Guide](/referees/) to learn about:
+- Match procedures
+- Handling disputes
+- Technical requirements
+- Reporting results
 
-## Latest Updates
-- [Add the latest updates here]
+### Are you a Team Captain?
+Check out the [Captain's Guide](/captains/) for information about:
+- Team management
+- Match scheduling
+- Communication protocols
+- Captain responsibilities
+
+### Are you a Player?
+Visit the [Player's Guide](/players/) to understand:
+- Tournament format
+- Match rules
+- Participation requirements
+- Support channels
+
+## Complete Tournament Documentation
+
+For comprehensive tournament information, including rules, schedules, and procedures, visit our [Tournament Information](/tournament-info/) section.
