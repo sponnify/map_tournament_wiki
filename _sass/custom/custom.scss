@@ -1,0 +1,290 @@
+// Font declarations
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono[wght].woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Fallback declarations for browsers that don't support variable fonts
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../fonts/RedditMono-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Typography styles
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Very large display text
+h1, .text-display-xl {
+  font-weight: 200; // Extra Light
+  font-size: 3.5rem;
+}
+
+// Large display text
+h2, .text-display-lg {
+  font-weight: 600; // Semibold
+  font-size: 2.5rem;
+}
+
+// Default display text
+h3, h4, .text-display {
+  font-weight: 700; // Bold
+  font-size: 2rem;
+}
+
+// Slightly smaller text
+.text-small {
+  font-weight: 500; // Medium
+  font-size: 0.875rem;
+}
+
+// Very small text
+.text-tiny {
+  font-weight: 900; // Black
+  font-size: 0.75rem;
+}
+
+// Navigation
+.site-nav {
+  font-weight: 400; // Regular
+}
+
+// Code blocks
+code {
+  font-family: inherit; // Use the same Reddit Mono font
+}
+
+// Navigation hover styles
+.nav-list .nav-list-item .nav-list-link,
+.main-header a {
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 1;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-radius: 9999px;
+    z-index: -1;
+    opacity: 0;
+    transform: scale(0.95);
+    transition: all 0.2s ease;
+  }
+
+  &:hover {
+    background: none;
+    color: #1F6BFF;
+
+    &::before {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+}
+
+// Active state styles
+.nav-list .nav-list-item.active .nav-list-link {
+  background: none;
+  color: #1F6BFF;
+
+  &::before {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// Search results hover effect
+.search-result {
+  position: relative;
+  transition: all 0.2s ease;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-radius: 9999px;
+    z-index: -1;
+    opacity: 0;
+    transform: scale(0.95);
+    transition: all 0.2s ease;
+  }
+
+  &:hover,
+  &.active {
+    background: none;
+
+    &::before {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+}
+
+// Site title hover effect
+.site-title {
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 1;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-radius: 9999px;
+    z-index: -1;
+    opacity: 0;
+    transform: scale(0.95);
+    transition: all 0.2s ease;
+  }
+
+  &:hover {
+    background: none !important;
+    background-image: none !important;
+    color: #1F6BFF;
+
+    &::before {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+}
+
+// Theme selector styling
+.theme-select {
+  background-color: transparent;
+  border: 2px solid currentColor;
+  border-radius: 9999px;
+  padding: 0.25rem 1rem;
+  cursor: pointer;
+  font-family: inherit;
+  color: inherit;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  text-align: center;
+  transition: all 0.2s ease;
+  position: relative;
+  z-index: 1;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    border-radius: 9999px;
+    z-index: -1;
+    opacity: 0;
+    transform: scale(0.95);
+    transition: all 0.2s ease;
+  }
+
+  &:hover {
+    background: none;
+    color: #1F6BFF;
+
+    &::before {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  option {
+    background: #1F6BFF;
+    color: white;
+    border-radius: 9999px;
+    padding: 0.25rem 1rem;
+  }
+}
+
+// Line adjustments
+.side-bar {
+  border-right: none !important;
+}
+
+.main .main-header,
+.site-header {
+  border-bottom: 1px solid #1F6BFF !important;
+  width: 100% !important;
+}
+
+.site-logo {
+  background-image: url('/assets/images/map_logo.png') !important;
+  width: 100% !important;
+  height: 100% !important;
+  background-repeat: no-repeat !important;
+  background-position: left center !important;
+  background-size: contain !important;
+}
+
+.search-input-wrap {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 9999px !important;
+}
+
+.search-input {
+  background-color: transparent !important;
+}

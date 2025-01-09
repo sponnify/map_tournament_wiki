@@ -1,0 +1,45 @@
+<nav aria-label="Auxiliary" class="aux-nav">
+    <ul class="aux-nav-list">
+      {% for link in site.aux_links %}
+        <li class="aux-nav-list-item">
+          {% if link.first == "Change Theme" %}
+            <select class="site-button theme-select" onchange="switchTheme(this.value)">
+              <option value="lime">Lime</option>
+              <option value="midnight">Midnight</option>
+              <option value="pink">Pink</option>
+              <option value="blue">Blue</option>
+            </select>
+          {% else %}
+            <a href="{{ link.last }}" class="site-button"
+              {% if site.aux_links_new_tab %}
+              target="_blank" rel="noopener noreferrer"
+              {% endif %}
+            >
+              {{ link.first }}
+            </a>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  
+  <script>
+    function switchTheme(theme) {
+      const stylesheet = document.querySelector('link[href*="just-the-docs-default.css"]');
+      if (stylesheet) {
+        const baseHref = stylesheet.href.split('?')[0];
+        stylesheet.href = `${baseHref}?color_scheme=${theme}`;
+        localStorage.setItem('theme-preference', theme);
+      }
+    }
+  
+    // Set initial theme on load
+    document.addEventListener('DOMContentLoaded', function() {
+      const themeSelect = document.querySelector('.theme-select');
+      if (themeSelect) {
+        const savedTheme = localStorage.getItem('theme-preference') || 'lime';
+        themeSelect.value = savedTheme;
+        switchTheme(savedTheme);
+      }
+    });
+  </script>

@@ -1,0 +1,80 @@
+/* Custom CSS for MAP Tournament Handbook */
+
+/* Font face declaration */
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../assets/fonts/RedditMono-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Reddit Mono';
+  src: url('../assets/fonts/RedditMono-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Color variables */
+:root {
+  --map-pink: #FF11A0;
+  --map-blue: #1F6BFF;
+  --map-lime: #C2FF15;
+  --map-green: #36FF86;
+}
+
+/* Typography */
+body {
+  font-family: "Reddit Mono", monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Reddit Mono", monospace;
+  font-weight: 700;
+}
+
+/* Color scheme adjustments */
+.site-header {
+  background-color: var(--map-blue);
+}
+
+.site-title {
+  color: var(--map-lime);
+}
+
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: var(--map-pink);
+  color: white;
+}
+
+.main-content a {
+  color: var(--map-green);
+}
+
+.main-content a:hover {
+  color: var(--map-lime);
+}
+
+/* Improved readability */
+.main-content {
+  line-height: 1.6;
+}
+
+/* Adjust spacing as per design guide */
+.main-content p {
+  margin-bottom: 1.25em;
+}
+
+/* Custom classes for design guide elements */
+.text-pink { color: var(--map-pink); }
+.text-blue { color: var(--map-blue); }
+.text-lime { color: var(--map-lime); }
+.text-green { color: var(--map-green); }
+
+.bg-pink { background-color: var(--map-pink); }
+.bg-blue { background-color: var(--map-blue); }
+.bg-lime { background-color: var(--map-lime); }
+.bg-green { background-color: var(--map-green); }
+
+/* Add more custom styles as needed */

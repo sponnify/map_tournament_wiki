@@ -1,28 +1,30 @@
 # Site settings
 title: MAP Tournament Handbook
 description: Official wiki for the Mapping Appreciation Project Tournament
-baseurl: "/map_tournament_wiki"
+baseurl: ""
 url: "https://sponnify.github.io"
+logo: "/assets/images/map_logo.png"
 
 # Theme settings
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
+color_scheme: blue
 
 # Enable or disable the site search
 search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Tournament Homepage":
+  "Main Sheet":
     - "//map-tournament-homepage.com"
-  "GitHub Repository":
-    - "//github.com/sponnify/map_tournament_wiki"
+  "Theme Switcher [Click to Change]":
+    - "#theme-switch"
 
 # Collections
 collections:
   tournament-info:
     output: true
-    permalink: /:collection/:path/
+    permalink: /tournament-info/:title/
 
 # Default YAML values
 defaults:
@@ -40,9 +42,29 @@ defaults:
 
 # Exclude from processing
 exclude:
+  - "*.config.js"
   - node_modules/
   - docker-compose.yml
   - package.json
   - package-lock.json
   - Gemfile
   - Gemfile.lock
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+jekyll_theme: just-the-docs
+
+# GitHub Pages specific settings
+github:
+  baseurl: "/map_tournament_wiki"
+
+# Load GitHub-specific settings if the JEKYLL_ENV is "production"
+jekyll_env: development
+
+sass:
+  sass_dir: _sass
+  style: compressed

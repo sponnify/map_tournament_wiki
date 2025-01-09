@@ -2,12 +2,13 @@
 layout: page
 title: Players
 nav_order: 5
+permalink: /players/
 ---
 
 # Players
 
-## Protect, Pick, Ban Format
-[Explanation of the protect, pick, and ban format using the 6wc method]
+## Match Format
+The tournament uses the "Corsace Open" match format for all matches. For detailed information about the format, including protect, pick, ban procedures, and mod rules, please see the [Tournament Format](/tournament-info/format/) page.
 
 ## Tournament Gimmick
 [Detailed explanation of the tournament gimmick and its impact on gameplay]
