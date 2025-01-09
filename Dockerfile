@@ -1,7 +1,13 @@
 FROM ruby:3.1-alpine
 
 # Install build dependencies
-RUN apk add --no-cache build-base gcc cmake git
+RUN apk add --no-cache \
+    build-base \
+    gcc \
+    cmake \
+    git \
+    nodejs \
+    npm
 
 # Install Bundler and Jekyll
 RUN gem install bundler jekyll
