@@ -289,9 +289,12 @@ code {
   background-color: transparent !important;
 }
 
-code {
-  color: inherit !important;  // This makes the code text inherit the parent text color
-  background-color: $white !important;  // Keeps the white background
+.main-content p code,
+.main-content li code,
+.main-content td code {
+  color: $body-background-color !important;
+  background-color: #ffffff !important;
   padding: 0.2em 0.4em;
   border-radius: 6px;
+  font-weight: 400;
 }
