@@ -7,7 +7,7 @@ logo: "/assets/images/map_logo.png"
 
 # Theme settings
 theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: blue
 
 # Enable or disable the site search
