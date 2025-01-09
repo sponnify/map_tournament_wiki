@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-gem "just-the-docs"
 
 group :jekyll_plugins do
-  # Add any other plugins here
+  gem "jekyll-remote-theme"
+  gem "jekyll-include-cache"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do

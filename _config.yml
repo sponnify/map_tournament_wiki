@@ -56,8 +56,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-jekyll_theme: just-the-docs
-
 # GitHub Pages specific settings
 github:
   baseurl: "/map_tournament_wiki"
