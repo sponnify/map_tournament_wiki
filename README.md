@@ -1,6 +1,6 @@
 # MAP Tournament Wiki - Local Development Guide
 
-This guide will walk you through setting up and running the MAP Tournament Wiki locally for development purposes.
+This guide will walk you through setting up and running the MAP Tournament Wiki locally for HELPING ME CODE (I SUCK AT IT).
 
 ## Prerequisites
 
