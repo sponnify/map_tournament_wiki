@@ -3,32 +3,30 @@ layout: page
 title: Tournament Info
 nav_order: 2
 has_children: true
-has_toc: true
-permalink: /tournament-info/
 ---
 
-# Tournament Info
+# Tournament Information
 
 ## Core Information
-- [Overview](/tournament-info/core-info/overview/)
-- [Rules](/tournament-info/core-info/rules/)
-- [Important Dates](/tournament-info/core-info/dates/)
-- [Staff](/tournament-info/core-info/staff/)
+- [Overview]({{ site.baseurl }}/tournament-info/core-info/overview/)
+- [Rules]({{ site.baseurl }}/tournament-info/core-info/rules/)
+- [Important Dates]({{ site.baseurl }}/tournament-info/core-info/dates/)
+- [Staff]({{ site.baseurl }}/tournament-info/core-info/staff/)
 
-## Entry & Registration
-- [Registration](/tournament-info/entry-info/registration/)
-- [Screening](/tournament-info/entry-info/screening/)
+## Entry Information
+- [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/)
+- [Screening]({{ site.baseurl }}/tournament-info/entry-info/screening/)
 
 ## Tournament Structure
-- [Format](/tournament-info/tournament-structure/format/)
-- [Gimmicks](/tournament-info/tournament-structure/gimmicks/)
-- [Prizes](/tournament-info/tournament-structure/prizes/)
+- [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/)
+- [Gimmicks]({{ site.baseurl }}/tournament-info/tournament-structure/gimmicks/)
+- [Prizes]({{ site.baseurl }}/tournament-info/tournament-structure/prizes/)
 
 ## Match Information
-- [Qualifiers](/tournament-info/match-info/qualifiers/)
-- [Match Format](/tournament-info/match-info/match-format/)
-- [Async Matches](/tournament-info/match-info/async-matches/)
-- [Grand Finals Schedule](/tournament-info/match-info/grand-finals/)
+- [Qualifiers]({{ site.baseurl }}/tournament-info/match-info/qualifiers/)
+- [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
+- [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/)
+- [Grand Finals Schedule]({{ site.baseurl }}/tournament-info/match-info/grand-finals/)
 
 ## Additional Information
-- [FAQ](/tournament-info/additional-info/faq/)
+- [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/)

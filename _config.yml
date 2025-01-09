@@ -16,14 +16,14 @@ search_enabled: true
 aux_links:
   "Main Sheet":
     - "//map-tournament-homepage.com"
-  "Theme Switcher [Click to Change]":
-    - "#theme-switch"
+  "Discord":
+    - "https://discord.gg/2vvAWrU9ZR"
 
 # Collections
 collections:
   tournament-info:
     output: true
-    permalink: /tournament-info/:title/
+    permalink: /map_tournament_wiki/tournament-info/:title/
 
 # Default YAML values
 defaults:

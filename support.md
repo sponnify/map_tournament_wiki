@@ -1,34 +1,31 @@
 ---
 layout: page
 title: Support
-nav_order: 7
-permalink: /support/
+nav_order: 6
 ---
 
-# Tournament Support
-
-## Before Seeking Help
+# Support
 
 Before reaching out for support, please check these resources:
 
 ### Documentation
-- Review our [FAQ](/tournament-info/faq/) section
+- Review our [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/) section
   - Common tournament questions
   - Technical troubleshooting guides
   - Match-related information
-- Check the [Tournament Rules](/tournament-info/rules/)
+- Check the [Tournament Rules]({{ site.baseurl }}/tournament-info/core-info/rules/)
   - Tournament regulations
   - Player conduct guidelines
   - Match format information
-- Review [Match Procedures](/match-procedure/)
+- Review [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
   - Qualifier and match guidelines
   - Schedule information
   - Technical requirements
 
 ### Common Issues
-- Map loading problems → [Troubleshooting Guide](/tournament-info/faq/#troubleshooting)
-- Match scheduling → [Tournament Format](/tournament-info/format/)
-- Technical difficulties → [FAQ](/tournament-info/faq/)
+- Map loading problems → [Troubleshooting Guide]({{ site.baseurl }}/tournament-info/additional-info/faq/#troubleshooting)
+- Match scheduling → [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/)
+- Technical difficulties → [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/)
 
 ## Getting Help
 
@@ -50,7 +47,7 @@ If your question isn't answered in the documentation, you have several support o
 ### Direct Staff Contact
 
 For department-specific issues:
-- Check the [Staff List](/tournament-info/staff/) to find the appropriate department head
+- Check the [Staff List]({{ site.baseurl }}/tournament-info/core-info/staff/) to find the appropriate department head
 - Contact them directly with your concerns
 - For general inquiries, contact RaiRei (Internal Affairs)
 
@@ -62,7 +59,7 @@ When contacting staff directly:
 ### Technical Support
 
 #### Map Issues
-- Follow the [Troubleshooting Guide](/tournament-info/faq/#troubleshooting)
+- Follow the [Troubleshooting Guide]({{ site.baseurl }}/tournament-info/additional-info/faq/#troubleshooting)
 - Contact a referee if problems persist
 - Document any error messages
 

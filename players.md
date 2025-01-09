@@ -8,7 +8,7 @@ permalink: /players/
 # Players
 
 ## Match Format
-The tournament uses the "Corsace Open" match format for all matches. For detailed information about the format, including protect, pick, ban procedures, and mod rules, please see the [Tournament Format](/tournament-info/format/) page.
+The tournament uses the "Corsace Open" match format for all matches. For detailed information about the format, including protect, pick, ban procedures, and mod rules, please see the [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page.
 
 ## Tournament Gimmick
 [Detailed explanation of the tournament gimmick and its impact on gameplay]

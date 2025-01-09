@@ -74,7 +74,7 @@ All participants are expected to behave ethically and respectfully. This include
 ### How to Report
 1. **Preferred Method**: Create a ticket in the Discord's `#open-ticket` channel.
 2. **Alternative Method**: Contact a relevant staff member directly:
-   - Check the [Staff](/tournament-info/staff/) page to find the appropriate department head for your issue.
+   - Check the [Staff]({{ site.baseurl }}/tournament-info/core-info/staff/) page to find the appropriate department head for your issue.
    - For general concerns, contact **Internal Affairs (RaiRei)**.
 
 ### Important Guidelines

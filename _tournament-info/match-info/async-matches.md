@@ -11,7 +11,7 @@ permalink: /tournament-info/match-info/async-matches/
 
 An asynchronous (async) match allows two teams to play their tournament match at different times while maintaining competitive fairness. This accommodation helps teams who cannot find a mutually workable time to play together due to timezone differences or scheduling conflicts.
 
-The pick/ban and match format follows the standard tournament structure - please familiarize yourself with the [Tournament Format](/tournament-info/tournament-structure/format/) before proceeding.
+The pick/ban and match format follows the standard tournament structure - please familiarize yourself with the [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) before proceeding.
 
 ## Availability
 
@@ -31,7 +31,7 @@ The following rounds allow async matches:
 
 ### Scheduling Process
 Unlike regular matches which are scheduled in #scheduling, async matches must be coordinated through Internal Affairs:
-- Contact [RaiRei](/tournament-info/core-info/staff/#tournament-hosts) through Discord private message
+- Contact [RaiRei]({{ site.baseurl }}/tournament-info/core-info/staff/#tournament-hosts) through Discord private message
 - Provide the following information:
   - Preferred lobby time
   - Evidence of scheduling conflicts
@@ -153,7 +153,7 @@ If a captain cannot attend match or pick/ban chat:
 - Teams not assembled within 10 minutes of start time forfeit
 - If neither team has enough players:
   - Both teams forfeit
-  - Next week's opponent receives a [bye](/tournament-info/faq/#glossary)
+  - Next week's opponent receives a [bye]({{ site.baseurl }}/tournament-info/additional-info/faq/#glossary)
 
 ## Fairness Measures
 
@@ -178,4 +178,4 @@ If a captain cannot attend match or pick/ban chat:
 - Playing order must remain confidential
 - Questions must be directed to staff before match day
 
-For complete format details, see [Tournament Format](/tournament-info/format/).
+For complete format details, see [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/).

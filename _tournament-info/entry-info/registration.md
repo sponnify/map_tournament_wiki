@@ -100,7 +100,7 @@ The following staff roles may not participate as players:
 
 After registering:
 1. Ensure all team members have joined the Discord server
-2. Complete the screening process (see [Screening](/screening/) page for details)
+2. Complete the screening process (see [Screening]({{ site.baseurl }}/tournament-info/entry-info/screening/) page for details)
 3. Wait for tournament staff to verify your registration
 
 Note: Players must maintain their rank requirement (>75,000) until registration closes. Those who fall outside this range will be removed from the tournament.
