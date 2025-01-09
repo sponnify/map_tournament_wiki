@@ -288,3 +288,15 @@ code {
 .search-input {
   background-color: transparent !important;
 }
+
+code {
+  color: inherit !important;  // This makes the code text inherit the parent text color
+  background-color: $white !important;  // Keeps the white background
+  padding: 0.2em 0.4em;
+  border-radius: 6px;
+}
+
+// If you're using dark mode, you might also want this:
+.dark code {
+  background-color: lighten($dark-mode-text, 10%) !important;
+}
