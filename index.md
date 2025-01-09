@@ -11,21 +11,21 @@ Welcome to the official handbook for the Mapping Appreciation Project Tournament
 ## Quick Access by Role
 
 ### Are you a Referee?
-Head over to the [Referee Guide](/referees/) to learn about:
+Head over to the [Referee Guide]({{ site.baseurl }}/referees/) to learn about:
 - Match procedures
 - Handling disputes
 - Technical requirements
 - Reporting results
 
 ### Are you a Team Captain?
-Check out the [Captain's Guide](/captains/) for information about:
+Check out the [Captain's Guide]({{ site.baseurl }}/captains/) for information about:
 - Team management
 - Match scheduling
 - Communication protocols
 - Captain responsibilities
 
 ### Are you a Player?
-Visit the [Player's Guide](/players/) to understand:
+Visit the [Player's Guide]({{ site.baseurl }}/players/) to understand:
 - Tournament format
 - Match rules
 - Participation requirements
@@ -33,4 +33,4 @@ Visit the [Player's Guide](/players/) to understand:
 
 ## Complete Tournament Documentation
 
-For comprehensive tournament information, including rules, schedules, and procedures, visit our [Tournament Information](/tournament-info/) section.
+For comprehensive tournament information, including rules, schedules, and procedures, visit our [Tournament Information]({{ site.baseurl }}/tournament-info/) section. Here you'll find everything from registration requirements to prize details.
