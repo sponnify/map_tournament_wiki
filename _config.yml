@@ -1,12 +1,11 @@
 # Site settings
 title: MAP Tournament Handbook
 description: Official wiki for the Mapping Appreciation Project Tournament
-baseurl: ""
+baseurl: "/map_tournament_wiki"
 url: "https://sponnify.github.io"
 logo: "/assets/images/map_logo.png"
 
 # Theme settings
-theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: blue
 
@@ -55,10 +54,6 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
-
-# GitHub Pages specific settings
-github:
-  baseurl: "/map_tournament_wiki"
 
 # Load GitHub-specific settings if the JEKYLL_ENV is "production"
 jekyll_env: development
