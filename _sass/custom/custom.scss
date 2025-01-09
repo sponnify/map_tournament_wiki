@@ -295,8 +295,3 @@ code {
   padding: 0.2em 0.4em;
   border-radius: 6px;
 }
-
-// If you're using dark mode, you might also want this:
-.dark code {
-  background-color: lighten($dark-mode-text, 10%) !important;
-}
