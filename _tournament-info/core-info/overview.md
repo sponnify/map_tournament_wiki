@@ -49,22 +49,20 @@ The **Mapping Appreciation Project (MAP)** is a **4v4 international tournament**
 
 ## Quick Links
 
+### Quick Links
+
 ### General Information
 - [Forum Post](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-- [Main Sheet](https://www.youtube.com/watch?v=r6DMPkLwTs8)
+- [Main Sheet](https://docs.google.com/spreadsheets/d/1cZxY30bo03sssZXmq4SIC_s9QfgNa_mRfuE4T2xGrew/edit?gid=771066289#gid=771066289)
 - [Stats Sheet](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-- [Rules and Information Document](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-- [Discord Invite Link](https://www.youtube.com/watch?v=r6DMPkLwTs8)
+- [Rules and Information Document](https://sponnify.github.io/map_tournament_wiki/)
+- [Discord Invite Link](https://discord.gg/j9Y7wGaY)
 
 ### Registration
-- [Team Registration](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-- [Free Agent Registration](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-
-To apply for a staff position, please contact either tournament host on Discord:
-- RaiRei (`@rairei`)
-- spon (`@spon`)
+- [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSf450Z8ASmKxGN-VvtkOcq0zgfSs-HnCZ9i6A9KU5dxzs2YEw/viewform?usp=sf_link)
+- [Free Agent Registration](https://docs.google.com/forms/d/e/1FAIpQLSfZfUoO5XuJN-Barr0xqUtMANsedQ3gnYliHfFzseV8aR-vwA/viewform?usp=sf_link)
 
 ### Streaming and Results
-- [Twitch](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-- [Challonge](https://www.youtube.com/watch?v=r6DMPkLwTs8)
-- [YouTube](https://www.youtube.com/watch?v=r6DMPkLwTs8)
+- [Twitch](https://www.twitch.tv/map_osu)
+- [Challonge](https://challonge.com/maptournament)
+- [YouTube](https://www.youtube.com/channel/UCzHs24WX0AjUpjRFRAMXQPg)
