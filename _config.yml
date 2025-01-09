@@ -3,7 +3,7 @@ title: MAP Tournament Handbook
 description: Official wiki for the Mapping Appreciation Project Tournament
 baseurl: "/map_tournament_wiki"
 url: "https://sponnify.github.io"
-logo: "/map_tournament_wiki/assets/images/map_logo.png"
+logo: "assets/images/map_logo.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
