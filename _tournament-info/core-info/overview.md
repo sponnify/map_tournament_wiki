@@ -52,7 +52,7 @@ The **Mapping Appreciation Project (MAP)** is a **4v4 international tournament**
 ### Quick Links
 
 ### General Information
-- [Forum Post](https://www.youtube.com/watch?v=r6DMPkLwTs8)
+- [Forum Post](https://osu.ppy.sh/community/forums/topics/2025705)
 - [Main Sheet](https://docs.google.com/spreadsheets/d/1cZxY30bo03sssZXmq4SIC_s9QfgNa_mRfuE4T2xGrew/edit?gid=771066289#gid=771066289)
 - [Stats Sheet](https://www.youtube.com/watch?v=r6DMPkLwTs8)
 - [Rules and Information Document](https://sponnify.github.io/map_tournament_wiki/)
