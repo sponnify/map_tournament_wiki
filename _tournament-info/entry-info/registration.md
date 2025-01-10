@@ -15,28 +15,10 @@ Before registering, please note:
 - **Rank Requirement**: Players must maintain a rank above 75,000 until registration ends
   - There is no rank buffer
   - Players outside this range when registration ends will be automatically screened out
-  - Exception: Players may apply for a rank exemption (see below)
 - **Discord Requirement**: All players must join the tournament Discord server before registration closes
 - **Staff Restrictions**: Staff members with access to pooling sheets cannot participate as players
 - **Registration Deadline**: Sunday, February 2nd, 2025
   - Late registrations will not be accepted under any circumstances
-
-### Rank Exemption Appeals Process
-Due to the rework shifting players around so drastically, we are opening an appeals process for players who are out of rank range. These will be worked on a case-by-case basis and will only be granted if 4/4 of the screening staff agree.
-
-**Requirements for Rank Exemption:**
-- Robust tournament history
-- Recent tournament participation (since November 2024) to ensure accurate decision-making
-- No top 6 placements in any 6-digit tournament
-- Must be blatantly within the skill level of the tournament
-  - This criteria will be upheld harshly
-  - Players in the top ~20% of 6-digit tourney players will not receive an appeal
-
-**Important Notes:**
-- Exemption requests must be submitted one week before the end of the signup period
-- Players who signup regularly without submitting an exemption request will be screened
-- Staff reserve the right to late screen exempted players at any stage of the tournament
-  - Captains should consider this risk when allowing an exempted player to join their team
 
 ## Registration Process
 
@@ -121,4 +103,4 @@ After registering:
 2. Complete the screening process (see [Screening](/screening/) page for details)
 3. Wait for tournament staff to verify your registration
 
-Note: Players must maintain their rank requirement (>75,000) until registration closes. Those who fall outside this range will be removed from the tournament unless they have been granted a rank exemption.
+Note: Players must maintain their rank requirement (>75,000) until registration closes. Those who fall outside this range will be removed from the tournament.
