@@ -34,3 +34,23 @@ Visit the [Player's Guide]({{ site.baseurl }}/players/) to understand:
 ## Complete Tournament Documentation
 
 For comprehensive tournament information, including rules, schedules, and procedures, visit our [Tournament Information]({{ site.baseurl }}/tournament-info.html) section. Here you'll find everything from registration requirements to prize details.
+
+---
+
+## Updates
+
+### January 11, 2025
+- Enhanced visual formatting across multiple pages including:
+  - [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/): Improved readability of match format and rules
+  - [Prizes]({{ site.baseurl }}/tournament-info/tournament-structure/prizes/): Better organized prize and bounty information
+  - [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/): Enhanced troubleshooting guides and glossary
+  - [Gimmicks]({{ site.baseurl }}/tournament-info/tournament-structure/gimmicks/): Clarified warmup gimmick requirements
+  - [Staff]({{ site.baseurl }}/tournament-info/core-info/staff/): Updated staff list and improved organization
+  - [Dates]({{ site.baseurl }}/tournament-info/core-info/dates/): Better presentation of tournament schedule
+  - [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/): Enhanced registration requirements display
+  - [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/): Improved clarity of async match procedures
+  - [Qualifiers]({{ site.baseurl }}/tournament-info/match-info/qualifiers/): Better organized qualifier format information
+- Added new staff members to various roles 
+- Clarified that losers' bracket teams must play two matches per week after Round of 16
+- Added requirement for 4 players in warmup gimmick
+- Clarified async match availability as last resort option

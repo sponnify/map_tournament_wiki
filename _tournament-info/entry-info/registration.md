@@ -9,85 +9,127 @@ permalink: /tournament-info/entry-info/registration/
 
 # Registration
 
+{: .warning }
+Registration closes Sunday, February 2nd, 2025. No late registrations will be accepted.
+
+---
+
 ## Key Requirements
 
-Before registering, please note:
-- **Rank Requirement**: Players must maintain a rank above 75,000 until registration ends
-  - There is no rank buffer
-  - Players outside this range when registration ends will be automatically screened out
-- **Discord Requirement**: All players must join the tournament Discord server before registration closes
-- **Staff Restrictions**: Staff members with access to pooling sheets cannot participate as players
-- **Registration Deadline**: Sunday, February 2nd, 2025
-  - Late registrations will not be accepted under any circumstances
+{: .important }
+> Players must meet and maintain **all** requirements until registration closes.
 
-## Registration Process
+| Requirement | Details |
+|------------|----------|
+| Rank Range | Must be between 75,000 and 999,999 |
+| Discord | Must join tournament server before registration closes |
+| Team Size | 4-8 players per team |
+| Staff Status | Certain staff roles cannot participate (see below) |
+
+{: .note }
+There is no rank buffer - players outside the rank range at registration close will be automatically screened out.
+
+---
+
+## Registration Options
 
 ### Option 1: Team Registration
+
+{: .highlight }
+Best for pre-formed teams or groups who want to play together.
+
 1. Form a team of 4-8 players
 2. Designate a team captain
-3. Submit your registration through the [Team Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSf450Z8ASmKxGN-VvtkOcq0zgfSs-HnCZ9i6A9KU5dxzs2YEw/viewform?usp=sf_link)
+3. [Submit Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSf450Z8ASmKxGN-VvtkOcq0zgfSs-HnCZ9i6A9KU5dxzs2YEw/viewform?usp=sf_link)
 4. Join the tournament Discord server
 
 ### Option 2: Free Agent Registration
-1. Submit your registration through the [Free Agent Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfZfUoO5XuJN-Barr0xqUtMANsedQ3gnYliHfFzseV8aR-vwA/viewform?usp=sf_link)
+
+{: .highlight }
+Best for individual players looking to join a team.
+
+1. [Submit Free Agent Registration](https://docs.google.com/forms/d/e/1FAIpQLSfZfUoO5XuJN-Barr0xqUtMANsedQ3gnYliHfFzseV8aR-vwA/viewform?usp=sf_link)
 2. Join the tournament Discord server
 3. Either:
-   - Join an existing team looking for players, or
-   - Wait for Free Agent team formation at the end of registration
+   - Join an existing team looking for players
+   - Wait for Free Agent team formation
 
-## Team Requirements
+---
 
-### Size and Structure
-- Teams must have 4-8 players
-- One player must be designated as team captain
-- All players must be registered members of the team
+## Team Guidelines
 
-### Team Captain Responsibilities
-- Team communication and coordination
-- Match scheduling
-- Roster management
-- Primary point of contact for tournament staff
+### Size & Structure
+- **Team Size**: 4-8 players
+- **Leadership**: One designated team captain
+- **Membership**: All players must be registered
+- **Activity**: All members must be actively participating
 
-### Team Names
-- Must be unique within the tournament
-- Must be appropriate (admins may change inappropriate names)
-- Must be complete (not a placeholder)
-- Must comply with osu! username guidelines
+### Captain Responsibilities
+| Responsibility | Details |
+|----------------|----------|
+| Communication | Team coordination and Discord presence |
+| Scheduling | Arranging match times and confirming with staff |
+| Roster | Managing team lineup and substitutions |
+| Contact | Primary point of contact for tournament staff |
 
-### Time Zone Considerations
-- Teams are strongly advised to group players from similar time zones
-- This facilitates easier match scheduling and team coordination
-- Consider time zones when recruiting additional players
+### Team Requirements
+
+#### Team Names
+- Must be unique in tournament
+- Must be appropriate
+- Must be finalized (no placeholders)
+- Must follow osu! guidelines
+
+{: .warning }
+Admins may change inappropriate team names without notice.
+
+#### Time Zone Management
+- Group players from similar time zones when possible
+- Consider timezone impact on match scheduling
+- Plan for player availability across different times
+
+---
 
 ## Registration Changes
 
-After initial registration, teams can request changes to:
+### Allowed Changes
 - Team names
 - Team roster
 - Team captain
 
-All changes must be requested through the #registration-changes channel in the Discord server. Changes are not final until approved by tournament staff.
+### Change Process
+1. Request changes in #registration-changes
+2. Wait for staff approval
+3. Changes only final after staff confirmation
+
+{: .note }
+All changes must be approved by tournament staff before taking effect.
+
+---
 
 ## Free Agent Teams
 
 ### Formation Process
-- Free Agent (FA) teams will be formed after the registration period ends
-- Teams will be created from players who:
-  - Registered as free agents
-  - Have not been picked up by existing teams
+Free Agent teams will be formed after registration closes from:
+- Registered free agents
+- Players not on existing teams
 
 ### Team Structure
-- FA teams will be balanced for competitive integrity
-- Team assignments are final once announced
-- FA teams must follow the same requirements as pre-formed teams
+- Teams balanced for competitive fairness
+- Assignments are final
+- Must follow standard team requirements
+
+---
 
 ## Staff Participation
 
-The following staff roles may participate as players:
+### Eligible Staff Roles
+Staff members in these roles may participate:
 - Streamers
 - Commentators
 
-The following staff roles may not participate as players:
+### Ineligible Staff Roles
+Staff members in these roles may not participate:
 - Hosts
 - Admins
 - Sheeters
@@ -96,11 +138,27 @@ The following staff roles may not participate as players:
 - Replayers
 - Graphic Designers
 
+{: .warning }
+Staff members with access to pooling sheets cannot participate as players.
+
+---
+
 ## Next Steps
 
-After registering:
-1. Ensure all team members have joined the Discord server
-2. Complete the screening process (see [Screening](/screening/) page for details)
-3. Wait for tournament staff to verify your registration
+{: .important }
+After completing registration:
 
-Note: Players must maintain their rank requirement (>75,000) until registration closes. Those who fall outside this range will be removed from the tournament.
+1. Join Discord Server
+   - Required for all players
+   - Must join before registration closes
+
+2. Complete Screening
+   - See [Screening]({{ site.baseurl }}/tournament-info/entry-info/screening/) page
+   - Required for all players
+
+3. Await Verification
+   - Staff will verify all registrations
+   - Watch Discord for announcements
+
+{: .note }
+Remember to maintain your rank requirement (>75,000) until registration closes.

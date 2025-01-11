@@ -10,21 +10,28 @@ permalink: /tournament-info/tournament-structure/format/
 # Format
 
 ## Basic Information
-The MAP Tournament is a 4v4 international tournament using double elimination format. All matches take place between Friday 23:59 UTC and Monday 23:59 UTC on their designated weekends.
+{: .highlight }
+The MAP Tournament is a **4v4** international tournament using double elimination format. All matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on their designated weekends.
+
+---
 
 ## Tournament Structure
+
 ### Double Elimination Bracket
-- Teams need two losses to be eliminated
+- Teams need **two losses** to be eliminated
 - One loss moves a team to the losers' bracket
 - Teams in losers' bracket must win to continue
+- Teams in losers' bracket must play **two matches per week** after Round of 16
 - Grand Finals features winners' bracket champion vs losers' bracket champion
+
+---
 
 ## Match Format
 
 {: .note }
 *LB: Losers Bracket only
 
-| Stage | SR | Protects | Bans | Best of | NM | HD | HR | DT | FM | TB | Async? |
+| Stage | SR | Protects | Bans | Best of | NM | HD | HR | DT | FM | TB | Async Available* |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Qualifiers | ★5.30 | NA | NA | NA | 4 | 2 | 2 | 2 | 0 | 0 | NA |
 | Round of 32 | ★4.90 | 1 | 2 | 9 | 4 | 2 | 2 | 2 | 2 | 1 | Yes |
@@ -34,78 +41,91 @@ The MAP Tournament is a 4v4 international tournament using double elimination fo
 | Finals | ★5.70 | 1 | 3 | 13 | 6 | 3 | 3 | 4 | 3 | 1 | No |
 | Grand Finals | ★5.90 | 1 | 3 | 13 | 6 | 3 | 3 | 4 | 3 | 1 | No |
 
+{: .warning }
+*Async matches are available as a **last resort** option only. Teams must provide evidence of scheduling conflicts to Internal Affairs (@RaiRei) and receive *explicit* approval. This option is discouraged as it requires significant additional staff resources.
+
+---
+
 ## Match Format Overview
-The Mapping Appreciation Project employs the "Corsace Open" match format. All matches follow a structured protect, ban, and pick system.
+The Mapping Appreciation Project employs the "**Corsace Open**" match format. All matches follow a structured protect, ban, and pick system.
 
 ## Protect, Pick, Ban System  
 
 ### Match Process
-1. **Rolls**
-   * At the start of the match, captains of both teams will use the `!roll` command when prompted by the referee.
-   * The winner of the roll (highest number) will:
-     * Protect second
-     * Ban second
-     * Pick first
-   * In the rare case where both captains roll the same number, captains will roll again until one of them wins
 
-2. **Protections and Picks**
-   * After the roll:
-     * Loser of the roll protects their first map
-     * Winner of the roll protects their map
-     * Loser of the roll bans their map
-     * Winner of the roll bans their map
-     * Teams alternate picks, starting with the team that won the roll. This pattern continues past ban phases and until a winner is determined.
+#### 1. Initial Rolls
+{: .important }
+- At match start, captains use `!roll` when prompted
+- **Highest roll** winner will:
+  - Protect **second**
+  - Ban **second**
+  - Pick **first**
+- Equal rolls: Repeat until winner determined
 
-3. **Ban Phases**
-   * **Second Ban Phase**
-     * Occurs after the first 4 maps are played
-     * Ban order determined by current match score:
-       * Team currently winning bans first
-       * If the score is tied (i.e., 2-2), the winner of the 4th map bans first
-     * Each team bans 1 map
+#### 2. Protection and Pick Order
+1. Roll loser protects first map
+2. Roll winner protects their map
+3. Roll loser bans their map
+4. Roll winner bans their map
+5. Teams alternate picks, starting with roll winner
+6. Continue alternating through ban phases until winner determined
 
-4. **Continuing the Match**
-   * **Rounds up to Semifinals**
-     * Continue picking maps immediately after the second ban phase
-     * Continue until a team wins
+#### 3. Ban Phases
+##### Second Ban Phase
+- Occurs after first **4** maps
+- Ban order by score:
+  - Leading team bans first
+  - If tied (2-2), winner of 4th map bans first
+- Each team bans **1** map
 
-   * **Finals and Grand Finals**
-     * A 3rd ban phase occurs
-     * This phase happens after the 4 maps following the second ban phase
-     * Same ban rules and order as the second ban phase apply
-     * Each team bans 1 map
-     * Continue playing maps until a winner is determined
+#### 4. Match Continuation
+##### Rounds up to Semifinals
+- Continue picks after second ban phase
+- Play until winner determined
 
-5. **Tiebreaker**
-   * If both teams are one point away from winning, the designated Tiebreaker (TB) map will be played
+##### Finals and Grand Finals
+- Third ban phase after next **4** maps
+- Same ban rules as second phase
+- Each team bans **1** map
+- Continue until winner determined
 
-**Reference:** The match process can be fully visualized in the accompanying infographic, which maps out the entire sequence of actions described in this section.
+#### 5. Tiebreaker
+{: .note }
+If both teams are one point from winning, play designated **Tiebreaker (TB)** map.
 
-[image]
+---
 
-### Map Rules
-* All maps use Team VS, NoFail, and ScoreV2
-* Maps must be played with their designated mods:
-  * NM (No Mod) pool: No modifications
-  * HD (Hidden) pool: Hidden mod
-  * HR (Hard Rock) pool: Hard Rock mod
-  * FM (Free Mod) pool: See Free Mod Rules section
-* Tiebreaker specific rules:
-  * Uses FreeMod rules but mod usage is optional
-  * All players must use NoFail (NF)
+## Map Rules
 
-### Scoring
-* Winner determined by higher team score after mod multipliers
-* In case of tied scores, the map is replayed with the same rosters
+### Universal Settings
+All maps use:
+- Team VS
+- NoFail
+- ScoreV2
+
+### Mod Requirements
+| Pool | Requirement |
+|------|-------------|
+| **NM** (No Mod) | No modifications |
+| **HD** (Hidden) | Hidden mod |
+| **HR** (Hard Rock) | Hard Rock mod |
+| **FM** (Free Mod) | See Free Mod Rules |
+| **TB** (Tiebreaker) | FreeMod optional, NoFail required |
+
+### Scoring Rules
+- Winner: Highest team score after mod multipliers
+- Tied scores: Replay map with same rosters
+
+---
 
 ## Freemod Rules
-All players in a team must meet the following rules when playing freemod maps:
 
-1. **Player 1: True Freemod**
-    - Choose any combination of mods or no mods at all (NM, HD, HR, HDHR, etc.).
-2. **Player 2: (Hidden)**
-    - Must play with the Hidden mod.
-3. **Player 3: (Hard Rock)**
-    - Must play with the Hardrock mod.
-4. **Player 4: Forcemod**
-    - Must use one of the following mods: HD, HR, HDHR, EZ (1.8x multiplier), etc.
+{: .important }
+Teams must follow these player roles for freemod maps:
+
+| Position | Requirement |
+|----------|-------------|
+| **Player 1** | True Freemod: Any mod combination (NM, HD, HR, HDHR, etc.) |
+| **Player 2** | Hidden mod required |
+| **Player 3** | HardRock mod required |
+| **Player 4** | Forced mod: HD, HR, HDHR, or EZ (1.8x multiplier) |

@@ -9,173 +9,193 @@ permalink: /tournament-info/match-info/async-matches/
 
 # Asynchronous Matches
 
-An asynchronous (async) match allows two teams to play their tournament match at different times while maintaining competitive fairness. This accommodation helps teams who cannot find a mutually workable time to play together due to timezone differences or scheduling conflicts.
+{: .warning }
+Asynchronous matches are a **last resort option** that should only be pursued when teams have *exhaustively* attempted to find a mutual match time. These matches require significant additional staff resources and are strongly discouraged unless absolutely necessary.
 
-The pick/ban and match format follows the standard tournament structure - please familiarize yourself with the [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) before proceeding.
+An asynchronous (async) match allows two teams to play their tournament match at different times while maintaining competitive fairness. This accommodation exists only for situations where teams have made *every reasonable effort* to find a mutual time but cannot due to severe timezone differences or unavoidable scheduling conflicts.
+
+{: .important }
+To request an async match, teams **must**:
+1. Demonstrate genuine attempts to find a mutual time
+2. Provide evidence of scheduling conflicts to Internal Affairs (**@RaiRei**)
+3. Receive *explicit* staff approval before proceeding
+
+Staff may deny async requests if:
+- Teams haven't made sufficient effort to find a mutual time
+- Evidence of scheduling conflicts is inadequate
+- Staff resources aren't available to support the async match
+- The request is made too close to the match deadline
+
+---
 
 ## Availability
 
-The following rounds allow async matches:
-- Round of 32: All matches
-- Round of 16: All matches
-- Quarter Finals: Losers' Bracket matches only
-- Semi Finals and beyond: Not available
+| Round | Async Availability |
+|-------|-------------------|
+| Round of 32 | **All** matches |
+| Round of 16 | **All** matches |
+| Quarter Finals | **Losers' Bracket only** |
+| Semi Finals+ | *Not available* |
+
+---
 
 ## Requesting an Async Match
 
 ### Requirements
-- Must be requested by Thursday, 23:59 UTC
-- Must provide evidence of scheduling conflicts (e.g., screenshots of scheduling discussions)
+| Deadline | Requirement |
+|----------|-------------|
+| **Thursday, 23:59 UTC** | Initial request deadline |
+| **Friday, 23:59 UTC** | Submit lobby times |
+
+Additionally:
+- Must provide evidence of scheduling conflicts
 - Both teams must agree to async format
-- Teams must submit preferred lobby times by Friday, 23:59 UTC
+- All times must be in UTC
 
 ### Scheduling Process
 Unlike regular matches which are scheduled in #scheduling, async matches must be coordinated through Internal Affairs:
 - Contact [RaiRei]({{ site.baseurl }}/tournament-info/core-info/staff/#tournament-hosts) through Discord private message
-- Provide the following information:
+- Provide:
   - Preferred lobby time
   - Evidence of scheduling conflicts
   - Team confirmation of async agreement
-- After approval, teams will be added to a pick/ban channel where they must:
-  - Agree on a time to conduct pick/ban process
-  - Complete pick/ban process by Friday 23:59 UTC
+
+{: .note }
+After approval, teams will be added to a pick/ban channel where they must:
+- Agree on a time to conduct pick/ban process
+- Complete pick/ban process by **Friday 23:59 UTC**
+
+---
 
 ## Match Process
 
 ### Discord Channel Setup
-Three private channels will be created in the tournament server:
-1. **Pick/Ban Channel**
-   - Access: Both team captains and tournament staff
-   - Purpose: 
-     - Coordinate time for pick/ban process
-     - Conduct *all* pick/bans and rolls
-   - Channel name: `async-pickban-team1-team2`
-2. **Team 1 Channel**
-   - Access: Team 1 members and tournament staff
-   - Purpose: Team 1 lobby scheduling and coordination
-   - Channel name: `async-team1`
-3. **Team 2 Channel**
-   - Access: Team 2 members and tournament staff
-   - Purpose: Team 2 lobby scheduling and coordination
-   - Channel name: `async-team2`
+Three private channels will be created:
+
+| Channel | Access | Purpose |
+|---------|---------|---------|
+| **Pick/Ban Channel** (`async-pickban-team1-team2`) | Both captains + staff | Coordinate and conduct *all* picks/bans |
+| **Team 1 Channel** (`async-team1`) | Team 1 + staff | Team 1 lobby coordination |
+| **Team 2 Channel** (`async-team2`) | Team 2 + staff | Team 2 lobby coordination |
 
 ### Pick/Ban Process Details
 
-The async pick/ban process follows the same format as standard matches for that round, but with all picks and bans completed at once. Teams must strategically choose their maps knowing they won't immediately know the outcome of each map.
+{: .important }
+The async pick/ban process follows standard match format but requires all picks and bans completed at once. Teams must choose maps *strategically* without knowing match outcomes.
 
 #### Format Structure
-- Follows standard match procedure for the current round
-- All protects, bans, and picks decided in one session
-- Teams must select enough maps for a worst-case scenario:
-  - Best of 9: 4 maps per team + tiebreaker (9 total maps)
-  - Best of 11: 5 maps per team + tiebreaker (11 total maps)
-  - Best of 13: 6 maps per team + tiebreaker (13 total maps)
-- Tiebreaker automatically added to end of list
+- Follows standard match procedure
+- All decisions made in one session
+- Map requirements by format:
+  - **Best of 9**: 4 maps per team + TB (9 total)
+  - **Best of 11**: 5 maps per team + TB (11 total)
+  - **Best of 13**: 6 maps per team + TB (13 total)
+- Tiebreaker automatically added
 
 #### Strategic Considerations
-- **Protects**: Teams must protect their strongest maps early, as they won't know match progress
-- **Bans**: Critical to ban uncomfortable maps before opponent can pick them
-- **First Phase Picks**: Important to select opponent's potential weak maps before second ban phase
-- **Later Picks**: Must be chosen assuming worst-case scenario where all maps are needed
+- **Protects**: Prioritize strongest maps early
+- **Bans**: Target opponent's comfort maps
+- **First Phase**: Focus on opponent's weaknesses
+- **Later Picks**: Plan for full match length
 
 #### Process Order
 1. Initial roll for order
 2. Protect phase completed
 3. First ban phase completed
-4. First 4 maps picked (2 per team)
+4. First **4 maps** picked (**2** per team)
 5. Second ban phase
 6. Remaining maps picked until round quota met
-7. Tiebreaker added to map list
+7. Tiebreaker added
 
 ### Pick/Ban Channel Protocol
-The entire pick/ban process takes place in the pick/ban Discord channel:
-- All communication must be in this channel
-- Rolls performed using Bathbot's `/roll` command in channel
-- Protects, bans, and picks must be clearly stated in channel
-- No external communication methods permitted
-- Staff will record and confirm all decisions in channel
-- Both captains must agree on time to complete process (deadline: Friday 23:59 UTC)
-- 120-second timer for each protect/ban/pick decision
-- Missing timer results in:
-  - First offense: Warning
-  - Further offenses: Pick goes to opponent
+- All communication in designated channel
+- Use Bathbot's `/roll` command for rolls
+- State all decisions clearly
+- No external communication
+- Staff records all decisions
+- **120-second** timer per decision
+- Missing timer penalties:
+  - First offense: *Warning*
+  - Further offenses: Pick to opponent
 
-### First Team's Match
+### Match Procedures
+
+#### First Team's Match
 1. **Before Match**
-   - 15 minutes before: Referee pings team captain
-   - 5 minutes before: Referee creates lobby and invites captain
-   - Captain invites team members
-   - 10-minute grace period for team assembly
-   - Teams not ready after grace period forfeit
+   - **15 minutes** before: Referee pings captain
+   - **5 minutes** before: Lobby creation
+   - **10-minute** grace period
+   - Late = forfeit
 
 2. **During Match**
-   - Team plays *all* maps through to tiebreaker
-   - Maps played in previously agreed order
-   - Scores recorded but not revealed
-   - One 120-second timeout available during preparation
-     - Must request before preparation timer ends
-     - No timeouts during tiebreaker (180-second break given instead)
+   - Play *all* maps through TB
+   - Follow agreed order
+   - Scores kept private
+   - One **120-second** timeout available
+   - **180-second** break before TB
 
 3. **After Match**
-   - Match completion recorded by referee
-   - Team lobby concluded
-   - Results remain private until both matches complete
+   - Completion recorded
+   - Results remain private
 
-### Second Team's Match
+#### Second Team's Match
 1. **Before Match**
-   - Same pre-match procedure as first team
-   - Teams will not know if they are first or second team
-   - 15 minutes before: Referee pings captain
-   - 5 minutes before: Referee creates lobby
-   - Same grace period and forfeit rules apply
+   - Identical procedure
+   - Team order remains secret
+   - Same grace period
 
 2. **During Match**
-   - Team plays through maps in order
-   - If win condition met on both sides:
-     - Referee will end lobby
-     - Announce that win condition has been met
-     - No indication of which team won
+   - Follow map order
+   - Win condition announcements only
+   - No score reveals
 
-3. **After Both Matches Complete**
-   - Results announced in shared pick/ban channel
-   - Results posted in #match-results
-   - All three async channels archived
+3. **After Completion**
+   - Results announced to all
+   - Posted in #match-results
+   - Channels archived
+
+---
 
 ## Technical Issues
 
 ### Captain Substitution
-If a captain cannot attend match or pick/ban chat:
-- Notify referee in advance
-- Designate a replacement captain
-- Provide replacement's osu! username
+If captain unavailable:
+- *Advance* notice to referee
+- Name replacement captain
+- Provide osu! username
 
 ### No-Shows
-- Teams not assembled within 10 minutes of start time forfeit
-- If neither team has enough players:
-  - Both teams forfeit
-  - Next week's opponent receives a [bye]({{ site.baseurl }}/tournament-info/additional-info/faq/#glossary)
+- **10-minute** grace period
+- Both teams missing = double forfeit
+- Opponent receives [bye]({{ site.baseurl }}/tournament-info/additional-info/faq/#glossary)
+
+---
 
 ## Fairness Measures
 
 ### Match Isolation
-- Teams play their matches independently
-- Teams will not know when other team's match occurs
-- All scores and results remain private until both matches complete
-- Match results announced only after both teams have played
-- No communication between teams regarding match details until results are announced
+{: .warning }
+- Teams play independently
+- Match timing kept private
+- Scores remain secret
+- Results announced only after both matches
+- No inter-team communication until results posted
 
 ### Timeouts
-- One 120-second timeout during match preparation
-- Must request before preparation timer ends
-- No timeouts during tiebreaker (180-second break given)
+- One **120-second** timeout per team
+- Request before timer ends
+- **180-second** TB break (no timeouts)
+
+---
 
 ## Important Rules
 
-- All regular match rules apply unless specified
-- All communication must occur in designated channels
-- Staff decisions regarding async matches are final
-- No sharing of scores between matches
-- Playing order must remain confidential
-- Questions must be directed to staff before match day
+{: .important }
+- Regular match rules apply unless specified
+- Use designated channels only
+- Staff decisions are final
+- No score sharing
+- Playing order confidential
+- Direct questions to staff before match day
 
-For complete format details, see [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/).
+For complete format details, see [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/)

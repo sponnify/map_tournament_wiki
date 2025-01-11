@@ -9,29 +9,31 @@ permalink: /tournament-info/additional-info/faq/
 
 # FAQ
 
+{: .note }
 For technical/client-related issues not covered in this guide, please refer to the [official osu! Help Centre](https://osu.ppy.sh/wiki/en/Help_centre/Client).
+
+---
 
 ## Common Questions
 
 ### What does MAP stand for?
-MAP stands for Mapping Appreciation Project (come on guys).
+**MAP** stands for **M**apping **A**ppreciation **P**roject (come on guys).
 
 ### What is Double Elimination?
-If your team loses a match in the winners bracket, you'll get a second chance by moving to the losers bracket. However, if you lose a match in the losers bracket, you're eliminated from the tournament.
+If your team loses a match in the **winners bracket**, you'll get a second chance by moving to the **losers bracket**. However, if you lose a match in the losers bracket, you're *eliminated* from the tournament.
 
 ### When are matches played?
-All tournament matches take place between Friday 23:59 UTC and Monday 23:59 UTC on their designated weekends. This applies to all stages of the tournament outside of Qualifiers.
+All tournament matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on their designated weekends. This applies to *all stages* of the tournament outside of Qualifiers.
 
 ### When should matches be rescheduled?
-- Reschedules must be submitted before Thursday, 23:59 UTC of the match week. Exceptions are considered on a case-by-case basis.
-- All scheduling must be done in UTC timezone
-- Both teams must agree to the new time
+- Reschedules must be submitted before **Thursday, 23:59 UTC** of the match week
+- All scheduling must be done in **UTC** timezone
+- **Both teams** must agree to the new time
 - The new time must fall within the Friday-Monday match window
-- Exceptions are considered on a case-by-case basis
+- Exceptions are considered on a *case-by-case basis*
 
 ### What is the MAP Pool Rejects?
-
-The MAP Pool Rejects is a collection of tournament-suitable maps submitted for the tournament that were reviewed by the Pooling Team but ultimately not included in the final pools. These maps are recognized for their significant mapping quality but were excluded due to factors like redundancy or pool balance.  
+The **MAP Pool Rejects** is a collection of tournament-suitable maps submitted for the tournament that were reviewed by the Pooling Team but ultimately not included in the final pools. These maps are recognized for their significant mapping quality but were excluded due to factors like redundancy or pool balance.
 
 After the Grand Finals, a Google Sheet will be released showcasing these maps with notes explaining their exclusion and searchable parameters.
 
@@ -42,6 +44,8 @@ Follow these steps when encountering technical issues:
 3. When the `osu! configuration` dialog opens, click `Reset Settings`
 4. If problems persist, open the dialog again and click `Repair osu!`
 
+---
+
 ## Troubleshooting
 
 ### Map Loading or Game Freezing Issues
@@ -51,6 +55,7 @@ Follow these steps when encountering technical issues:
 - When the referee uses `!mp start` but your game doesn't respond
 - When you can't join or spectate a multiplayer match
 
+{: .warning }
 **How to Fix:**
 
 1. **Exit Game Area**
@@ -83,6 +88,7 @@ Follow these steps when encountering technical issues:
 - When a downloaded map has no audio
 - When the song has been removed due to DMCA
 
+{: .warning }
 **How to Fix:**
 
 1. **Exit Game Area**
@@ -109,7 +115,8 @@ Follow these steps when encountering technical issues:
 5. **Open osu!**
    - Start the game
 
-**Note**: If you continue to have problems after following these steps, please contact a referee.
+{: .note }
+If you continue to have problems after following these steps, please contact a referee.
 
 ### Bancho/Invite Connection Issues
 
@@ -148,6 +155,8 @@ Follow these steps when encountering technical issues:
    - Consider requesting a reschedule (with opponent's agreement)
    - Document the issue for staff
 
+---
+
 ## Tournament Glossary  
 
 ### Game Terms  
@@ -170,4 +179,4 @@ Follow these steps when encountering technical issues:
 - **Match Point**: When a team needs only one more point to win the match.  
 - **Pick Order**: The sequence in which teams select maps during a match.  
 - **Secured Tiebreaker**: When a team reaches the minimum score needed for a tiebreaker to be possible (one point before match point). This doesn't guarantee a tiebreaker will be played, but ensures it could happen if the opposing team catches up (e.g., in a Best of 9, when a team reaches 4 points, meaning the match could potentially reach 4-4).  
-- **Warmup Phase**: The period before the match starts where each team selects a map to play for practice. Warmup maps are subject to rules, such as time limits or difficulty restrictions, and do not affect the match outcome.  
+- **Warmup Phase**: The period before the match starts where each team selects a map to play for practice. Warmup maps are subject to rules, such as time limits or difficulty restrictions, and do not affect the match outcome.
