@@ -299,10 +299,16 @@ code {
   font-weight: 400;
 }
 
-.highlight, pre.highlight {
+body .main-content .highlight,
+body .main-content pre.highlight {
   background: #ffffff !important;
   color: $body-background-color !important;
   padding: 0.2em 0.4em;
   border-radius: 6px;
   font-weight: 400;
+}
+
+body .main-content p.highlight a {
+  color: $body-background-color !important;
+  text-decoration-color: $body-background-color !important;
 }
