@@ -299,7 +299,8 @@ code {
   font-weight: 400;
 }
 
-.highlight, pre.highlight {
+body .main-content .highlight, 
+body .main-content pre.highlight {
   background: #ffffff !important;
   color: $body-background-color !important;
   padding: 0.2em 0.4em;
