@@ -15,8 +15,9 @@ permalink: /tournament-info/match-info/match-format/
 All match scheduling and communication must be conducted in **UTC timezone**.
 
 ### Match Schedule
+
 | Requirement | Details |
-|------------|----------|
+|:------------|:---------|
 | **Match Window** | Friday 23:59 UTC - Monday 23:59 UTC |
 | **Timezone** | All scheduling in UTC, teams responsible for conversions |
 | **Default Times** | Based on teams' time zones |
@@ -40,8 +41,9 @@ Teams should attempt to reschedule as early as possible to ensure referee availa
 ## Match Preparation
 
 ### Before Match Start
+
 | Time | Action |
-|------|---------|
+|:-----|:--------|
 | **15 minutes** before | Referee pings team captains on Discord |
 | **5 minutes** before | Referee creates lobby and invites captains |
 | Until start | Captains must invite their team members |

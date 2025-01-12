@@ -298,3 +298,11 @@ code {
   border-radius: 6px;
   font-weight: 400;
 }
+
+.highlight, pre.highlight {
+  background: #ffffff !important;
+  color: $body-background-color !important;
+  padding: 0.2em 0.4em;
+  border-radius: 6px;
+  font-weight: 400;
+}

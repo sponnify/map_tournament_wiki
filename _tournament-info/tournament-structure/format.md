@@ -104,8 +104,9 @@ All maps use:
 - ScoreV2
 
 ### Mod Requirements
+
 | Pool | Requirement |
-|------|-------------|
+|:-----|:------------|
 | **NM** (No Mod) | No modifications |
 | **HD** (Hidden) | Hidden mod |
 | **HR** (Hard Rock) | Hard Rock mod |

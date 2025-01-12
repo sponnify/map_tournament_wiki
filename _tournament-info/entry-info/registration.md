@@ -65,8 +65,9 @@ Best for individual players looking to join a team.
 - **Activity**: All members must be actively participating
 
 ### Captain Responsibilities
+
 | Responsibility | Details |
-|----------------|----------|
+|:--------------|:---------|
 | Communication | Team coordination and Discord presence |
 | Scheduling | Arranging match times and confirming with staff |
 | Roster | Managing team lineup and substitutions |

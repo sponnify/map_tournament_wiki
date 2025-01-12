@@ -39,6 +39,15 @@ For comprehensive tournament information, including rules, schedules, and proced
 
 ## Updates
 
+### January 12, 2025
+- Fixed table formatting across multiple pages:
+  - Improved readability of captain responsibilities in [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/)
+  - Enhanced account activity tables in [Screening]({{ site.baseurl }}/tournament-info/entry-info/screening/)
+  - Fixed mod requirements display in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/)
+  - Corrected match preparation tables in [Qualifiers]({{ site.baseurl }}/tournament-info/match-info/qualifiers/) and [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
+  - Standardized async match tables in [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/)
+- Fixed highlight block text color bug across all pages
+
 ### January 11, 2025
 - Enhanced visual formatting across multiple pages including:
   - [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/): Improved readability of match format and rules

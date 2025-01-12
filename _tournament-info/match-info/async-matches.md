@@ -42,8 +42,9 @@ Staff may deny async requests if:
 ## Requesting an Async Match
 
 ### Requirements
+
 | Deadline | Requirement |
-|----------|-------------|
+|:---------|:------------|
 | **Thursday, 23:59 UTC** | Initial request deadline |
 | **Friday, 23:59 UTC** | Submit lobby times |
 

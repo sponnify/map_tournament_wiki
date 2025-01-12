@@ -23,8 +23,9 @@ Qualifier matches will **only** be held between **Friday, February 7th, 2025, 00
 ## Match Preparation
 
 ### Before the Match
+
 | Time | Action |
-|------|---------|
+|:-----|:--------|
 | **15 minutes** before | Referee will contact team captain via Discord |
 | **5 minutes** before | Referee will create the lobby and invite the captain |
 | Until start | Captain is responsible for inviting their team members |

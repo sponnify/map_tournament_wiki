@@ -38,8 +38,9 @@ The MAP Tournament uses **manual screening** performed by our screening team on 
 - No rank buffer provided
 
 #### 2. Account Activity
+
 | Factor | What We Check |
-|--------|---------------|
+|:--------|:---------------|
 | Account Age | Account creation date and activity history |
 | Play History | Playtime and count distribution |
 | Activity Patterns | Recent activity and inactivity periods |
@@ -95,8 +96,9 @@ Failing to maintain these requirements until registration closes will result in 
 > - Multiple appeals are not accepted
 
 ### Required Information
+
 | Component | Description |
-|-----------|-------------|
+|:-----------|:-------------|
 | Username | Your full osu! username |
 | Reason | Why you were screened (if known) |
 | Justification | Why the decision should be reconsidered |
