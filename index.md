@@ -61,8 +61,6 @@ For comprehensive tournament information, including rules, schedules, and proced
   - Custom profile banners still included for top 3
 
 ### January 11, 2025
-
-### January 11, 2025
 - Enhanced visual formatting across multiple pages including:
   - [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/): Improved readability of match format and rules
   - [Prizes]({{ site.baseurl }}/tournament-info/tournament-structure/prizes/): Better organized prize and bounty information
