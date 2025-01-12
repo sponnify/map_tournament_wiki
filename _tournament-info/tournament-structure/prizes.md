@@ -16,8 +16,8 @@ Teams will receive the following prizes based on their final placement:
 
 | Placement | Reward |
 |-----------|--------|
-| **1st Place** | • **4 months** osu!supporter per player<br>• Custom Profile Banner |
-| **2nd Place** | • **3 months** osu!supporter per player<br>• Custom Profile Banner |
+| **1st Place** | • **6 months** osu!supporter per player<br>• Custom Profile Banner |
+| **2nd Place** | • **4 months** osu!supporter per player<br>• Custom Profile Banner |
 | **3rd Place** | • **2 months** osu!supporter per player<br>• Custom Profile Banner |
 | **4th Place** | • **1 month** osu!supporter per player |
 

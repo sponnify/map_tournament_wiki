@@ -40,6 +40,12 @@ For comprehensive tournament information, including rules, schedules, and proced
 ## Updates
 
 ### January 12, 2025
+- Increased prize pool:
+  - 1st place increased to **6 months** supporter (from 4)
+  - 2nd place increased to **4 months** supporter (from 3)
+  - 3rd place remains at **2 months** supporter
+  - 4th place remains at **1 month** supporter
+  - Custom profile banners still included for top 3
 - Fixed table formatting across multiple pages:
   - Improved readability of captain responsibilities in [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/)
   - Enhanced account activity tables in [Screening]({{ site.baseurl }}/tournament-info/entry-info/screening/)
@@ -47,6 +53,14 @@ For comprehensive tournament information, including rules, schedules, and proced
   - Corrected match preparation tables in [Qualifiers]({{ site.baseurl }}/tournament-info/match-info/qualifiers/) and [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
   - Standardized async match tables in [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/)
 - Fixed highlight block text color bug across all pages
+- Increased prize pool:
+  - 1st place increased to **6 months** supporter (from 4)
+  - 2nd place increased to **4 months** supporter (from 3)
+  - 3rd place remains at **2 months** supporter
+  - 4th place remains at **1 month** supporter
+  - Custom profile banners still included for top 3
+
+### January 11, 2025
 
 ### January 11, 2025
 - Enhanced visual formatting across multiple pages including:
