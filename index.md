@@ -58,6 +58,7 @@ For comprehensive tournament information, including rules, schedules, and proced
   - Removed "Tournament" suffix from tournament name
   - All references now consistently use "Mapping Appreciation Project"
   - Acronym "MAP" still used after initial introduction
+- Fixed "Main Sheet" link in the header
 
 ### January 11, 2025
 - Enhanced visual formatting across multiple pages including:
