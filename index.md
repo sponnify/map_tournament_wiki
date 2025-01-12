@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to the MAP Tournament Handbook
+# Welcome to the official handbook for Mapping Appreciation Project
 
-Welcome to the official handbook for the Mapping Appreciation Project Tournament. While most tournaments provide this information in a traditional rules document, we've structured this wiki to be more intuitive and user-friendly, making it easier to find exactly what you need.
+Welcome to the official handbook for the Mapping Appreciation Project. While most tournaments provide this information in a traditional rules document, we've structured this wiki to be more intuitive and user-friendly.
 
 ## Quick Access by Role
 
@@ -59,6 +59,11 @@ For comprehensive tournament information, including rules, schedules, and proced
   - 3rd place remains at **2 months** supporter
   - 4th place remains at **1 month** supporter
   - Custom profile banners still included for top 3
+- Updated naming convention across all pages:
+  - Removed all instances of "The" before "Mapping Appreciation Project"
+  - Removed "Tournament" suffix from tournament name
+  - All references now consistently use "Mapping Appreciation Project"
+  - Acronym "MAP" still used after initial introduction
 
 ### January 11, 2025
 - Enhanced visual formatting across multiple pages including:

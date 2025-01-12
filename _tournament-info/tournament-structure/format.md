@@ -11,7 +11,7 @@ permalink: /tournament-info/tournament-structure/format/
 
 ## Basic Information
 {: .highlight }
-The MAP Tournament is a **4v4** international tournament using double elimination format. All matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on their designated weekends.
+Mapping Appreciation Project is a **4v4** international tournament using double elimination format. All matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on their designated weekends.
 
 ---
 
@@ -47,7 +47,7 @@ The MAP Tournament is a **4v4** international tournament using double eliminatio
 ---
 
 ## Match Format Overview
-The Mapping Appreciation Project employs the "**Corsace Open**" match format. All matches follow a structured protect, ban, and pick system.
+Mapping Appreciation Project uses the "Corsace Open" match format. All matches follow a structured protect, ban, and pick system.
 
 ## Protect, Pick, Ban System  
 

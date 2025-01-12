@@ -12,7 +12,7 @@ permalink: /tournament-info/core-info/overview/
 ---
 
 ## About the Tournament
-The **Mapping Appreciation Project (MAP)** is a **4v4 international tournament** that aims to showcase and promote maps that have been well-received by the mapping community. By featuring these maps, we hope to highlight **high-quality mapping** for future tournaments to consider.
+**Mapping Appreciation Project (MAP)** is a **4v4 international tournament** that aims to showcase and promote maps that have been well-received by the mapping community. By featuring these maps, we hope to highlight **high-quality mapping** for future tournaments to consider.
 
 ---
 
