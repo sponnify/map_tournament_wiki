@@ -39,6 +39,13 @@ For comprehensive tournament information, including rules, schedules, and proced
 
 ## Updates
 
+### January 14, 2025
+- Clarified team name language policy in [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/#team-names):
+  - Added information about English versions of non-English team names
+  - Updated registration documentation for better clarity
+- Added that teams can change their team icon through [Registration Changes]({{ site.baseurl }}/tournament-info/entry-info/registration/#registration-changes)
+- Updated the registration changes section for better completeness
+
 ### January 12, 2025
 - Increased prize pool:
   - 1st place increased to **6 months** supporter (from 4)

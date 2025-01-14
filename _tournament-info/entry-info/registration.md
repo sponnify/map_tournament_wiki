@@ -80,6 +80,7 @@ Best for individual players looking to join a team.
 - Must be appropriate
 - Must be finalized (no placeholders)
 - Must follow osu! guidelines
+- Team names in non-English languages or non-Latin alphabets will be romanized and/or translated at staff discretion
 
 {: .warning }
 Admins may change inappropriate team names without notice.
@@ -97,6 +98,7 @@ Admins may change inappropriate team names without notice.
 - Team names
 - Team roster
 - Team captain
+- Team icon
 
 ### Change Process
 1. Request changes in #registration-changes
