@@ -39,6 +39,11 @@ For comprehensive tournament information, including rules, schedules, and proced
 
 ## Updates
 
+### January 17, 2025
+- Further clarified FreeMod rules in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/#freemod-rules) and [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/):
+  - Specified Player 4 must use difficulty-increasing mods or EZ mod
+  - Removed incorrect mod restrictions
+
 ### January 14, 2025
 - Clarified team name language policy in [Registration]({{ site.baseurl }}/tournament-info/entry-info/registration/#team-names):
   - Added information about English versions of non-English team names

@@ -123,7 +123,7 @@ Teams must have specific mod combinations:
 - One player with *any* mod combination
 - One player with **Hidden**
 - One player with **HardRock**
-- One player with forced mod (**HD**, **HR**, **HDHR**, or **EZ**)
+- One player must use either a difficulty-increasing mod/combination or EZ mod/combination
 
 ### Tiebreaker
 - All players must use **NoFail** mod

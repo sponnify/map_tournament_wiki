@@ -129,4 +129,4 @@ Teams must follow these player roles for freemod maps:
 | **Player 1** | True Freemod: Any mod combination (NM, HD, HR, HDHR, etc.) |
 | **Player 2** | Hidden mod required |
 | **Player 3** | HardRock mod required |
-| **Player 4** | Forced mod: HD, HR, HDHR, or EZ (1.8x multiplier) |
+| **Player 4** | Forced mod: Must use at least one mod (any difficulty-increasing mod/combination or EZ mod/combination) 
