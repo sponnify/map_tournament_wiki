@@ -128,7 +128,9 @@ Team sheets are **required documentation**. In scheduling conflicts, staff will 
 ### Tournament Structure
 
 {: .important }
-The tournament uses a double elimination bracket structure. For complete format details, see the [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page.
+The tournament uses a double elimination bracket structure. For complete format details, see the [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page. The pick/ban sequence and rules for all match types are illustrated below:
+
+![Pick/Ban Format](/assets/images/pickban-format.png)
 
 - Teams need **two losses** to be eliminated
 - One loss moves a team to the losers' bracket
