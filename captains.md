@@ -343,16 +343,29 @@ Three private channels will be created. For complete async match procedures, see
    - Handle technical issues
    - Coordinate player substitutions if needed
 
-### FreeMod Requirements
+Here’s the revised section that clarifies the specific mod combinations for FreeMod maps, incorporating your requested adjustments:
+
+---
+
+## Freemod Rules
 
 {: .important }
 Teams must follow these specific mod combinations for FreeMod maps:
-- One player with any mod combination
-- One player with Hidden
-- One player with HardRock
-- One player must use either:
-  - A difficulty-increasing mod/combination, or
+
+| Position | Requirement |
+|----------|-------------|
+| **Player 1** | True Freemod: Any mod combination (e.g., NM, HD, HR, HDHR) |
+| **Player 2** | Hidden mod required |
+| **Player 3** | HardRock mod required |
+| **Player 4** | Must use either:  
+  - A difficulty-increasing mod/combination, or  
   - EZ mod/combination (**1.8x** base score multiplier)
+
+### Additional Notes
+- Difficulty-increasing mods may include Hidden, HardRock, DoubleTime, Flashlight, Easy, or any combination.
+- The EZ mod applies a **1.8x** base score multiplier to balance its difficulty.
+
+---
 
 ### Pick/Ban Process
 

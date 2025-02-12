@@ -39,19 +39,32 @@ For comprehensive tournament information, including rules, schedules, and proced
 
 ## Updates
 
-### February 12, 2025
-- Enhanced documentation across multiple pages:
-  - Added detailed RussianVaxei team sheet guide to [Captains]({{ site.baseurl }}/captains/) page
-  - Included visual guides for sheet setup and configuration
-  - Improved team availability tracking instructions
-  - Added direct links to template sheets
-- Updated navigation structure for easier access
-- Fixed various formatting issues
-- Added comprehensive pick/ban format documentation:
-  - Added visual infographic to [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page
-  - Updated [Captains]({{ site.baseurl }}/captains/) guide with pick/ban sequence
-  - Clarified rules regarding double and triple picks
-  - Enhanced format explanation with visual aids
+Here’s the updated version of the list with your changes added:
+
+---
+
+### February 12, 2025  
+- Enhanced documentation across multiple pages:  
+  - Added detailed RussianVaxei team sheet guide to [Captains]({{ site.baseurl }}/captains/) page  
+  - Included visual guides for sheet setup and configuration  
+  - Improved team availability tracking instructions  
+  - Added direct links to template sheets  
+- Updated navigation structure for easier access  
+- Fixed various formatting issues  
+- Added comprehensive pick/ban format documentation:  
+  - Added visual infographic to [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page  
+  - Updated [Captains]({{ site.baseurl }}/captains/) guide with pick/ban sequence  
+  - Clarified rules regarding double and triple picks  
+  - Enhanced format explanation with visual aids  
+- Major improvements to Captains guide organization:  
+  - Reorganized sections for better flow  
+  - Added expanded bounty system details  
+  - Enhanced scheduling format examples  
+  - Added EZ mod multiplier specification  
+  - Improved quick reference section  
+- Clarified FreeMod rules:  
+  - Updated [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page with specific mod combinations for FreeMod maps  
+  - Added detailed explanation of difficulty-increasing mods and EZ mod (**1.8x** base score multiplier)
 
 ### January 17, 2025
 - Further clarified FreeMod rules in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/#freemod-rules) and [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/):
