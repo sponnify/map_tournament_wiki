@@ -39,6 +39,15 @@ For comprehensive tournament information, including rules, schedules, and proced
 
 ## Updates
 
+### February 12, 2025
+- Enhanced documentation across multiple pages:
+  - Added detailed RussianVaxei team sheet guide to [Captains]({{ site.baseurl }}/captains/) page
+  - Included visual guides for sheet setup and configuration
+  - Improved team availability tracking instructions
+  - Added direct links to template sheets
+- Updated navigation structure for easier access
+- Fixed various formatting issues
+
 ### January 17, 2025
 - Further clarified FreeMod rules in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/#freemod-rules) and [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/):
   - Specified Player 4 must use difficulty-increasing mods or EZ mod
