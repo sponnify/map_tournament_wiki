@@ -47,6 +47,11 @@ For comprehensive tournament information, including rules, schedules, and proced
   - Added direct links to template sheets
 - Updated navigation structure for easier access
 - Fixed various formatting issues
+- Added comprehensive pick/ban format documentation:
+  - Added visual infographic to [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/) page
+  - Updated [Captains]({{ site.baseurl }}/captains/) guide with pick/ban sequence
+  - Clarified rules regarding double and triple picks
+  - Enhanced format explanation with visual aids
 
 ### January 17, 2025
 - Further clarified FreeMod rules in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/#freemod-rules) and [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/):
