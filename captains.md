@@ -290,6 +290,11 @@ Staff reserve the right to reject any proof deemed illegitimate.
 
 ### Pick/Ban Process Details
 
+{: .important }
+The pick/ban sequence and rules for all match types are illustrated below:
+
+![Pick/Ban Format](/assets/images/pickban-format.png)
+
 #### Initial Phase
 1. Captains use `!roll` when prompted
 2. **Highest roll** winner will:
@@ -304,6 +309,10 @@ Staff reserve the right to reject any proof deemed illegitimate.
 3. Roll loser bans their map
 4. Roll winner bans their map
 5. Teams alternate picks, starting with roll winner
+
+#### Pick Rules
+- **Double picks** (selecting two maps from the same mod pool consecutively) are **allowed**
+- **Triple picks** (selecting three maps from the same mod pool consecutively) are **not allowed**
 
 #### Ban Phases
 - **Second Ban Phase**:

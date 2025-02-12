@@ -47,7 +47,12 @@ Mapping Appreciation Project is a **4v4** international tournament using double 
 ---
 
 ## Match Format Overview
-Mapping Appreciation Project uses the "Corsace Open" match format. All matches follow a structured protect, ban, and pick system.
+The Mapping Appreciation Project employs the "**Corsace Open**" match format. All matches follow a structured protect, ban, and pick system.
+
+{: .important }
+The pick/ban sequence and rules for all match types are illustrated below:
+
+![Pick/Ban Format](/assets/images/pickban-format.png)
 
 ## Protect, Pick, Ban System  
 
@@ -78,7 +83,12 @@ Mapping Appreciation Project uses the "Corsace Open" match format. All matches f
   - If tied (2-2), winner of 4th map bans first
 - Each team bans **1** map
 
-#### 4. Match Continuation
+#### 4. Pick Rules and Match Continuation
+
+### Pick Limitations
+- **Double picks** (selecting two maps from the same mod pool consecutively) are **allowed**
+- **Triple picks** (selecting three maps from the same mod pool consecutively) are **not allowed**
+
 ##### Rounds up to Semifinals
 - Continue picks after second ban phase
 - Play until winner determined
