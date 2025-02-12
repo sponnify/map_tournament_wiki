@@ -20,6 +20,45 @@ This guide provides comprehensive information for team captains participating in
 
 ---
 
+## Quick Reference
+
+{: .note }
+Bookmark these important resources:
+
+- [Tournament Rules]({{ site.baseurl }}/tournament-info/core-info/rules/)
+- [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
+- [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/)
+- [Staff List]({{ site.baseurl }}/tournament-info/core-info/staff/)
+
+### Support Resources
+
+#### Getting Help
+1. **Support Tickets**
+   - Create in #open-ticket channel
+   - Provide detailed information
+   - Keep all communication in ticket
+
+2. **General Help**
+   - Use #questions-suggestions
+   - Check pinned messages
+   - Be patient for responses
+
+3. **Direct Staff Contact**
+   - Check [Staff List]({{ site.baseurl }}/tournament-info/core-info/staff/) for department heads
+   - Contact RaiRei for general inquiries
+   - Tag @Referee in #general for urgent match issues
+
+4. **Emergency Protocol**
+   {: .warning }
+   For urgent match-day issues, follow this order:
+   1. Contact assigned referee
+   2. If unavailable, ping @Referee in #general
+   3. For serious issues, contact:
+      - [RaiRei](https://osu.ppy.sh/users/24156254)
+      - [spon](https://osu.ppy.sh/users/12304513)
+
+---
+
 ## Core Responsibilities
 
 ### Primary Duties
@@ -112,6 +151,8 @@ The tournament uses a double elimination bracket structure. For complete format 
 {: .note }
 *LB = Losers Bracket only
 
+---
+
 ## Prize Structure
 
 ### Tournament Prizes
@@ -126,75 +167,122 @@ Make sure your team knows what they're competing for. For complete prize informa
 | **3rd Place** | • **2 months** osu!supporter per player<br>• Custom Profile Banner |
 | **4th Place** | • **1 month** osu!supporter per player |
 
-### Mapper's Favourite Bounty System
+### Mapper's Choice Bounty System
 
 {: .important }
-Each round features additional prize opportunities through the "Mapper's Favourite" bounty system:
+Each round features additional prize opportunities through the "Mapper's Favourite" bounty system. For complete bounty rules and prize information, see the [Prizes]({{ site.baseurl }}/tournament-info/tournament-structure/prizes/#mappers-favourite-bounty-system) page.
 
-- Special map selected each round
-- Two winners per round receive 1 month supporter
-- Teams can attempt during official matches
-- Maximum 4 players per attempt
-- One attempt per team
-- Attempts after match conclusion allowed in same lobby
+#### Overview
+- Special map selected by mapping board each round
+- **Two winners** per round receive 1 month supporter
+- Total prize pool distribution:
+  - Round of 32: 2 winners × 1 month
+  - Round of 16: 2 winners × 1 month
+  - Quarter Finals: 2 winners × 1 month
+  - Semi Finals: 2 winners × 1 month
+  - Finals: 2 winners × 1 month
+  - Grand Finals: 2 winners × 1 month
+- Total bounty prize pool: **14 months** supporter across tournament
+
+#### How to Participate
+1. **Map Selection**
+   - Mapper's Favourite announced in mappool showcase
+   - Required score threshold specified
+   - Teams must meet or exceed threshold to qualify
+
+2. **Attempt Rules**
+   - Attempts during official matches only
+   - Can attempt after match winner decided (same lobby)
+   - One attempt per team per bounty map
+   - Maximum 4 players per attempt
+   - All participating players attempt simultaneously
+   - For multiple match opportunities, only first attempt counts
+
+3. **Prize Distribution**
+   - Raffles during next round's mappool showcase
+   - Two winners randomly selected from qualifying attempts
+   - Players can only win one bounty per round
+   - Does not affect tournament placement prizes
+
+---
 
 ## Match Coordination
 
-### General Schedule Rules
+### Match Scheduling
 
-{: .warning }
-All matches must occur between **Friday 23:59 UTC** and **Monday 23:59 UTC**
+{: .important }
+All scheduling must be done in **#scheduling** channel using the proper format.
 
-### Scheduling Process
+#### Basic Requirements
+- All times in **UTC**
+- Between **Friday 23:59 UTC** and **Monday 23:59 UTC**
+- Both teams must confirm
+- Wait for referee confirmation
 
-1. **Regular Matches**
-   - Contact opposing captain
-   - Find mutually agreeable time
-   - Post in #scheduling:
-     ```
-     Current Time: [Current UTC time]
-     Proposed Time: [New UTC time]
-     [Confirmation from both teams]
-     ```
-   - Wait for staff confirmation
+#### Scheduling Format Examples
 
-2. **Qualifier Matches**
-   - Check "Qualifiers Lobbies" tab on main sheet
-   - Request lobby in #scheduling:
-     ```
-     Team Name: [your team]
-     Lobby ID: [desired lobby]
-     ```
+Teams must provide:
+- **Match ID**
+- **Time** (in UTC)
+- **Warmup Gimmick** participation
+- **Confirmation** from both teams
+- **Warmup maps** (if participating in gimmick)
 
-3. **Custom Qualifier Lobbies**
-   ```
-   Team Name: [your team]
-   EX_[number]: [UTC time]
-   ```
+##### Example 1: Standard Reschedule (No Warmup Gimmick)
+
+Format:
+```
+Match ID: 69
+Time: 15:30utc sunday
+Warmup Gimmick: No
+```
+
+<img src="/assets/images/schedule-no-warmup.png" alt="Example of scheduling without warmup gimmick" class="guide-image" />
+
+{: .note }
+Notice in this example:
+- Clear match identification
+- Time specified in UTC
+- Explicit mention of not using warmup gimmick
+- Confirmation from opponent included
+- Referee acknowledgment
+
+##### Example 2: Default Time with Warmup Gimmick
+
+Format:
+```
+Match ID: 69
+Time: Default (12utc)
+Warmup Gimmick: Yes
+Our team: https://osu.ppy.sh/beatmapsets/406217#osu/882812
+Their Team: https://osu.ppy.sh/beatmapsets/914754#osu/1910547
+```
+
+<img src="/assets/images/schedule-with-warmup.png" alt="Example of scheduling with warmup gimmick" class="guide-image" />
+
+{: .note }
+In this example:
+- Using default match time
+- Both teams participating in warmup gimmick
+- Warmup maps provided by both teams
+- Confirmation from opponent included
+- Referee acknowledgment
+- Mapping board member confirmation
+
+#### Qualifier Match Scheduling
+Check "Qualifiers Lobbies" tab on main sheet for available slots:
+```
+Team Name: [your team]
+Lobby ID: [desired lobby]
+```
+
+For custom qualifier times:
+```
+Team Name: [your team]
+EX_[number]: [UTC time]
+```
 
 ### Async Match Procedures
-
-#### Discord Channel Setup
-Three private channels will be created. For complete async match procedures, see the [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/) page.
-- **Pick/Ban Channel** (`async-pickban-team1-team2`): Both captains + staff
-- **Team 1 Channel** (`async-team1`): Team 1 + staff
-- **Team 2 Channel** (`async-team2`): Team 2 + staff
-
-#### Strategic Considerations
-- **Protects**: Prioritize strongest maps early
-- **Bans**: Target opponent's comfort maps
-- **First Phase**: Focus on opponent's weaknesses
-- **Later Picks**: Plan for full match length
-
-#### Match Privacy Rules
-{: .warning }
-- Teams play independently
-- Match timing kept private
-- Scores remain secret
-- Results announced only after both matches
-- No inter-team communication until results posted
-
-### Async Match Requests
 
 {: .important }
 Available only as last resort for:
@@ -207,6 +295,20 @@ To request:
 2. Contact Internal Affairs (@RaiRei)
 3. Receive explicit approval
 4. Complete pick/ban by Friday 23:59 UTC
+
+#### Discord Channel Setup
+Three private channels will be created. For complete async match procedures, see the [Async Matches]({{ site.baseurl }}/tournament-info/match-info/async-matches/) page.
+- **Pick/Ban Channel** (`async-pickban-team1-team2`): Both captains + staff
+- **Team 1 Channel** (`async-team1`): Team 1 + staff
+- **Team 2 Channel** (`async-team2`): Team 2 + staff
+
+#### Match Privacy Rules
+{: .warning }
+- Teams play independently
+- Match timing kept private
+- Scores remain secret
+- Results announced only after both matches
+- No inter-team communication until results posted
 
 ---
 
@@ -228,21 +330,18 @@ To request:
 | **5 minutes** | Forfeit protect/bans |
 | **10 minutes** | Match forfeit |
 
-### Qualifier Match Requirements
+### Match Flow Responsibilities
 
-{: .warning }
-Qualifier matches are only held between **Friday, February 7th, 2025, 00:00 UTC** and **Sunday, February 9th, 2025, 23:59 UTC**. For complete qualifier information, see the [Qualifiers]({{ site.baseurl }}/tournament-info/match-info/qualifiers/) page.
+1. **Preparation Phase**
+   - Submit protect/ban decisions
+   - Manage team picks
+   - Can override team member picks before map set
 
-#### Special Considerations
-- Reschedule requests within 12 hours cannot guarantee participation
-- For custom lobbies, check lowest unclaimed EX lobby number
-- Can join existing EX lobbies using `Lobby ID: EX_[number]`
-
-#### Second Playthrough Rules
-- 5-minute break allowed
-- Must follow original mappool order
-- Maps for replay must be declared before starting
-- Most recent scores will be used for seeding
+2. **During Match**
+   - Ensure correct mod combinations
+   - Manage timeouts (one 120-second timeout per match)
+   - Handle technical issues
+   - Coordinate player substitutions if needed
 
 ### FreeMod Requirements
 
@@ -251,9 +350,76 @@ Teams must follow these specific mod combinations for FreeMod maps:
 - One player with any mod combination
 - One player with Hidden
 - One player with HardRock
-- One player must use either a difficulty-increasing mod/combination or EZ mod/combination
+- One player must use either:
+  - A difficulty-increasing mod/combination, or
+  - EZ mod/combination (**1.8x** base score multiplier)
 
-### Technical Issue Management
+### Pick/Ban Process
+
+#### Initial Phase
+1. Captains use `!roll` when prompted
+2. **Highest roll** winner will:
+   - Protect *second*
+   - Ban *second*
+   - Pick *first*
+3. Equal rolls: Repeat until winner determined
+
+#### Protection and Pick Order
+1. Roll loser protects first map
+2. Roll winner protects their map
+3. Roll loser bans their map
+4. Roll winner bans their map
+5. Teams alternate picks, starting with roll winner
+
+#### Pick Rules
+- **Double picks** (selecting two maps from the same mod pool consecutively) are **allowed**
+- **Triple picks** (selecting three maps from the same mod pool consecutively) are **not allowed**
+
+#### Ban Phases
+- **Second Ban Phase**:
+  - Occurs after first 4 maps
+  - Leading team bans first
+  - If tied (2-2), winner of 4th map bans first
+  - Each team bans 1 map
+
+#### Finals Special Rules
+- Third ban phase after next 4 maps
+- Same ban order rules apply
+- Each team bans 1 additional map
+
+#### Tiebreaker
+{: .note }
+If both teams are one point from winning, designated Tiebreaker (TB) map is played.
+
+---
+
+## Warmup Gimmick Management
+
+{: .note }
+Optional feature that can earn your team a free point.
+
+### Requirements
+- Advance notice in scheduling
+- Both teams must agree to participate
+- Exactly 4 players must participate
+- Map must not be previously seen by mapping board
+- Map must thoroughly impress mapping board member
+
+### Scheduling Requirements
+When participating in warmup gimmick:
+- Include warmup map links in schedule post
+- Wait for mapping board member confirmation
+- Both teams must agree to participate
+- Exactly 4 players required
+
+{: .warning }
+Warmup gimmick requests without proper format or missing information will be ignored.
+
+---
+
+## Issue Resolution
+
+### Technical Support
 
 #### Score Verification
 Acceptable proof of score includes:
@@ -288,174 +454,7 @@ Staff reserve the right to reject any proof deemed illegitimate.
 - One abort allowed per team per match
 - Additional disconnections won't trigger aborts
 
-### Pick/Ban Process Details
-
-{: .important }
-The pick/ban sequence and rules for all match types are illustrated below:
-
-![Pick/Ban Format](/assets/images/pickban-format.png)
-
-#### Initial Phase
-1. Captains use `!roll` when prompted
-2. **Highest roll** winner will:
-   - Protect **second**
-   - Ban **second**
-   - Pick **first**
-3. Equal rolls: Repeat until winner determined
-
-#### Protection and Pick Order
-1. Roll loser protects first map
-2. Roll winner protects their map
-3. Roll loser bans their map
-4. Roll winner bans their map
-5. Teams alternate picks, starting with roll winner
-
-#### Pick Rules
-- **Double picks** (selecting two maps from the same mod pool consecutively) are **allowed**
-- **Triple picks** (selecting three maps from the same mod pool consecutively) are **not allowed**
-
-#### Ban Phases
-- **Second Ban Phase**:
-  - Occurs after first 4 maps
-  - Leading team bans first
-  - If tied (2-2), winner of 4th map bans first
-  - Each team bans 1 map
-
-#### Finals Special Rules
-- Third ban phase after next 4 maps
-- Same ban order rules apply
-- Each team bans 1 additional map
-
-#### Tiebreaker
-{: .note }
-If both teams are one point from winning, designated Tiebreaker (TB) map is played.
-
-### Match Flow Responsibilities
-
-1. **Pick/Ban Phase**
-   - Submit protect/ban decisions
-   - Manage team picks
-   - Can override team member picks before map set
-
-2. **During Match**
-   - Ensure correct mod combinations
-   - Manage timeouts (one 120-second timeout per match)
-   - Handle technical issues
-   - Coordinate player substitutions if needed
-
----
-
-## Warmup Gimmick Management
-
-{: .note }
-> Optional feature that can earn your team a free point
-
-### Requirements
-- Advance notice in scheduling
-- Both teams must agree to participate
-- Exactly 4 players must participate
-- Map must not be previously seen by mapping board
-- Map must thoroughly impress mapping board member
-
-### Scheduling Format
-```
-Match Time: [UTC time]
-Warmup Gimmick: Yes
-Team A Warmup: [map link]
-Team B Warmup: [map link]
-```
-
----
-
-## Communication Guidelines
-
-### Core Principles
-- Treat all staff and players with respect
-- Avoid derogatory language
-- Keep discussions in appropriate channels
-- Zero tolerance for toxicity
-- Report rule violations promptly
-
-For complete conduct guidelines and reporting procedures, see the [Rules]({{ site.baseurl }}/tournament-info/core-info/rules/) page.
-
-### During Matches
-- If toxic behavior occurs, referee will:
-  - Issue warning
-  - Notify admin if necessary
-- Match continues unless admin intervenes
-- Players can report directly to admins
-
-### Outside Matches
-- Report behavior issues directly to admins
-- Provide detailed documentation
-- Follow proper reporting channels
-
-## Support Resources
-
-### Quick Access Links
-
-{: .note }
-Bookmark these important resources:
-
-- [Tournament Rules]({{ site.baseurl }}/tournament-info/core-info/rules/)
-- [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/)
-- [FAQ]({{ site.baseurl }}/tournament-info/additional-info/faq/)
-- [Staff List]({{ site.baseurl }}/tournament-info/core-info/staff/)
-
-### Getting Help
-
-#### Discord Support System
-1. **Support Tickets**
-   - Create in #open-ticket channel
-   - Provide detailed information
-   - Keep all communication in ticket
-
-2. **General Help**
-   - Use #questions-suggestions
-   - Check pinned messages
-   - Be patient for responses
-
-#### Direct Staff Contact
-- Check [Staff List]({{ site.baseurl }}/tournament-info/core-info/staff/) for department heads
-- Contact RaiRei for general inquiries
-- Tag @Referee in #general for urgent match issues
-
-### Emergency Protocol
-
-{: .warning }
-For urgent match-day issues, follow this order:
-1. Contact assigned referee
-2. If unavailable, ping @Referee in #general
-3. For serious issues, contact:
-   - [RaiRei](https://osu.ppy.sh/users/24156254)
-   - [spon](https://osu.ppy.sh/users/12304513)
-
-## Issue Resolution
-
-### Technical Problems
-
-1. **Map Issues**
-   - Follow [Troubleshooting Guide]({{ site.baseurl }}/tournament-info/additional-info/faq/#troubleshooting)
-   - Contact referee if issues persist
-   - Document error messages
-
-2. **Client Problems**
-   - Verify osu! is updated
-   - Check game files
-   - Contact match referee
-
-### Emergency Contacts
-
-For urgent match-day issues:
-1. Contact assigned referee
-2. If unavailable: ping @Referee in #general
-3. Serious issues: contact [RaiRei](https://osu.ppy.sh/users/24156254) or [spon](https://osu.ppy.sh/users/12304513)
-
----
-
-## Fair Play Guidelines
-
-### Prohibited Practices
+### Fair Play Guidelines
 
 {: .warning }
 The following are considered unfair:
@@ -465,7 +464,7 @@ The following are considered unfair:
 - Making unreasonable demands
 - Showing unwillingness to compromise
 
-### Reporting Issues
+#### Reporting Issues
 
 1. **Create Support Ticket**
    - Use #open-ticket channel
@@ -476,7 +475,7 @@ The following are considered unfair:
    - Find appropriate [staff member]({{ site.baseurl }}/tournament-info/core-info/staff/)
    - Contact Internal Affairs for general issues
 
-### Consequences
+#### Consequences
 Teams found violating fair play guidelines may face:
 - Forfeiture
 - Tournament disqualification
