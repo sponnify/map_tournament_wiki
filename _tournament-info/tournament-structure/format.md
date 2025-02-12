@@ -52,7 +52,7 @@ The Mapping Appreciation Project employs the "**Corsace Open**" match format. Al
 {: .important }
 The pick/ban sequence and rules for all match types are illustrated below:
 
-![Pick/Ban Format](/assets/images/pickban-format.png)
+![Pick/Ban Format](../../assets/images/pickban-format.png)
 
 ## Protect, Pick, Ban System  
 

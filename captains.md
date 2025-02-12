@@ -93,7 +93,7 @@ Teams must maintain these requirements throughout the tournament. For complete r
 1. **Initial Setup**
    - Create a copy of the *desired teamsize template* from the [RussianVaxei sheets](https://drive.google.com/drive/u/0/folders/1MrQc2fFx-OERCHFiezdtvaP3PrtXKg31)
 
-<img src="/assets/images/copy-sheet.png" alt="How to create a copy of the RussianVaxei sheet" class="guide-image" />
+![Copying the RussianVaxei sheet](/assets/images/copy-sheet.png)
 
 2. **Sheet Configuration**
    - Add the names of your team members (1) onto the settings page
@@ -102,14 +102,14 @@ Teams must maintain these requirements throughout the tournament. For complete r
      - Open the mainsheet and copy the exact name of the mappool tab into the sheet (3)
      - Insert the value of the first and last row of maps (4) as seen on the mappool sheet
 
-<img src="/assets/images/sheet-configuration.png" alt="RussianVaxei sheet configuration sections" class="guide-image" />
+![RussianVaxei sheet configuration sections](/assets/images/sheet-configuration.png)
 
 3. **Managing Team Availability**
    - Organizing a schedule through this sheet is possible and required during scheduling conflicts
    - Use the availability tab to visualize when your team members can play
    - This helps coordinate team schedules and resolve conflicts
 
-<img src="/assets/images/availability-setup.png" alt="RussianVaxei sheet availability setup" class="guide-image" />
+![RussianVaxei sheet availability setup](/assets/images/availability-setup.png)
 
 {: .important }
 Team sheets are **required documentation**. In scheduling conflicts, staff will request your team's availability sheet.
@@ -239,7 +239,7 @@ Time: 15:30utc sunday
 Warmup Gimmick: No
 ```
 
-<img src="/assets/images/schedule-no-warmup.png" alt="Example of scheduling without warmup gimmick" class="guide-image" />
+![Example of scheduling without warmup gimmick](/assets/images/schedule-no-warmup.png)
 
 {: .note }
 Notice in this example:
@@ -260,7 +260,7 @@ Our team: https://osu.ppy.sh/beatmapsets/406217#osu/882812
 Their Team: https://osu.ppy.sh/beatmapsets/914754#osu/1910547
 ```
 
-<img src="/assets/images/schedule-with-warmup.png" alt="Example of scheduling with warmup gimmick" class="guide-image" />
+![Example of scheduling with warmup gimmick](/assets/images/schedule-with-warmup.png)
 
 {: .note }
 In this example:
@@ -359,7 +359,8 @@ Teams must follow these specific mod combinations for FreeMod maps:
 | **Player 1** | True Freemod: Any mod combination (e.g., NM, HD, HR, HDHR) |
 | **Player 2** | Hidden mod required |
 | **Player 3** | HardRock mod required |
-| **Player 4** | Must use either:  
+| **Player 4** | Must use either: |
+
   - A difficulty-increasing mod/combination, or  
   - EZ mod/combination (**1.8x** base score multiplier)
 
