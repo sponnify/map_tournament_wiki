@@ -8,7 +8,7 @@ permalink: /players/
 # Player's Guide
 
 {: .highlight }
-Welcome to the Mapping Appreciation Project (MAP) player's guide. This comprehensive resource contains everything you need to know about participating in the tournament. For a complete overview of the tournament, see the [Tournament Overview]({{ site.baseurl }}/tournament-info/core-info/overview/).
+This guide provides comprehensive information for players participating in the MAP Tournament. As a player, you are responsible for maintaining active participation, following tournament rules, and coordinating with your team captain. All tournament matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on their designated weekends. For a complete overview of the tournament, see the [Tournament Overview]({{ site.baseurl }}/tournament-info/core-info/overview/).
 
 ---
 
