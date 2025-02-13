@@ -88,6 +88,8 @@ The pick/ban sequence and rules for all match types are illustrated below:
 ### Pick Limitations
 - **Double picks** (selecting two maps from the same mod pool consecutively) are **allowed**
 - **Triple picks** (selecting three maps from the same mod pool consecutively) are **not allowed**
+- **Double bans** (banning two maps from the same mod pool) are **allowed**
+- **Triple bans** (banning three maps from the same mod pool) are **not allowed**
 
 ##### Rounds up to Semifinals
 - Continue picks after second ban phase
@@ -139,4 +141,4 @@ Teams must follow these player roles for freemod maps:
 | **Player 1** | True Freemod: Any mod combination (NM, HD, HR, HDHR, etc.) |
 | **Player 2** | Hidden mod required |
 | **Player 3** | HardRock mod required |
-| **Player 4** | Forced mod: Must use at least one mod (any difficulty-increasing mod/combination or EZ mod/combination) 
+| **Player 4** | Forced mod: Must use either:<br>• HD, HR, or HDHR<br>• EZ (**1.8x** score multiplier) |

@@ -43,6 +43,20 @@ Here’s the updated version of the list with your changes added:
 
 ---
 
+### February 13, 2025
+- Emphasized tournament rules:
+  - Emphasized EZ mod multiplier (**1.8x**) in FreeMod rules in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/#freemod-rules)
+  - Clarified allowed pick/ban combinations:
+    - Added explicit rules for double/triple picks in [Match Format]({{ site.baseurl }}/tournament-info/match-info/match-format/#pickban-process)
+    - Added explicit rules for double/triple bans in [Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/#pick-limitations)
+  - Enhanced player mod requirements documentation in [Players]({{ site.baseurl }}/players/#mod-requirements)
+  - Updated format documentation for consistency across all pages
+- Added extensive documentation for special features:
+  - Expanded [Mapper's Choice bounty system]({{ site.baseurl }}/tournament-info/tournament-structure/prizes/#mappers-favourite-bounty-system) details
+  - Enhanced [warmup gimmick]({{ site.baseurl }}/tournament-info/tournament-structure/gimmicks/) documentation
+  - Added comprehensive prize distribution information to [Players]({{ site.baseurl }}/players/#mappers-choice-bounty-system)
+  - Clarified participation requirements and procedures in [Tournament Format]({{ site.baseurl }}/tournament-info/tournament-structure/format/)
+
 ### February 12, 2025  
 - Enhanced documentation across multiple pages:  
   - Added detailed RussianVaxei team sheet guide to [Captains]({{ site.baseurl }}/captains/) page  
