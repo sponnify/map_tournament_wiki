@@ -1,21 +1,37 @@
-  # Site settings
+# Site settings
 title: MAP Tournament Handbook
 description: Official wiki for the Mapping Appreciation Project Tournament
 baseurl: "/map_tournament_wiki"
 url: "https://sponnify.github.io"
-logo: "assets/images/map_logo.png"
+logo: "/map_tournament_wiki/assets/images/map_logo.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs
 color_scheme: blue
 
-# Enable or disable the site search
+# Search configuration
 search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  heading_level: 2
+  # Maximum amount of previews per search result
+  previews: 3
+  # Maximum amount of words to display before/after a matched word
+  preview_words_before: 5
+  preview_words_after: 10
+  # Set the search token separator
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  rel_url: true
+  # Enable or disable the search button
+  button: true
+  # Restrict search to only tournament-info pages
+  only: ["tournament-info"]
 
 # Aux links for the upper right navigation
 aux_links:
   "Main Sheet":
-    - "https://docs.google.com/spreadsheets/d/1cZxY30bo03sssZXmq4SIC_s9QfgNa_mRfuE4T2xGrew/"
+    - "//map-tournament-homepage.com"
   "Discord":
     - "https://discord.gg/2vvAWrU9ZR"
 

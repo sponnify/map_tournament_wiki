@@ -7,8 +7,21 @@ permalink: /players/
 
 # Player's Guide
 
+{: .no_toc }
+
 {: .highlight }
 This guide provides comprehensive information for players participating in the MAP Tournament. As a player, you are responsible for maintaining active participation, following tournament rules, and coordinating with your team captain. All tournament matches take place between **Friday 23:59 UTC** and **Monday 23:59 UTC** on their designated weekends. For a complete overview of the tournament, see the [Tournament Overview]({{ site.baseurl }}/tournament-info/core-info/overview/).
+
+## Table of Contents
+{: .no_toc }
+
+* TOC
+{:toc}
+
+## Tournament Terminology
+
+{: .note }
+To help you understand tournament-specific terms and abbreviations, please refer to our [Glossary]({{ site.baseurl }}/tournament-info/additional-info/faq/#tournament-glossary). It includes explanations of common terms like ABAB order, FreeMod, double picking, and more.
 
 ---
 
