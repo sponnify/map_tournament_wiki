@@ -31,7 +31,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Main Sheet":
-    - "//map-tournament-homepage.com"
+    - "https://docs.google.com/spreadsheets/d/1cZxY30bo03sssZXmq4SIC_s9QfgNa_mRfuE4T2xGrew/"
   "Discord":
     - "https://discord.gg/2vvAWrU9ZR"
 
